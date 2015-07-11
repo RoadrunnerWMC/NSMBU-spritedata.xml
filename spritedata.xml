@@ -1669,7 +1669,7 @@ Please verify that your edits are syntactically correct before committing here! 
             <entry value="15">Ice flower</entry>
         </list>
 	</sprite>
-    <sprite id="234" name="Line Controlled Brick Block [Unused]" notes="Name translates to Actor group lines corresponding brick block. Functions great.">	
+    <sprite id="234" name="Line Controlled Brick Block [Unused]" notes="Name translates to Actor group lines corresponding brick block. Functions great.">
 	        <value title="Movement Line ID" nybble="6" comment="The Line ID the ? block follows." />
 			<list title="Item" nybble="20" comment="The item in the ? block.">
             <entry value="0">Nothing</entry>
@@ -3334,10 +3334,10 @@ Please verify that your edits are syntactically correct before committing here! 
         <value title="Unknown Value 11" nybble="11" comment="Used as 0 in NSMBU 11-1 A1, NSMBU 11-3 A1, NSMBU 11-5 A2, NSMBU 11-7 A2, NSMBU 11-7 A4&lt;br&gt;&lt;br&gt;Used as 1 in NSMBU 11-3 A1, NSMBU 11-8 A1, NSMBU 11-8 A2&lt;br&gt;&lt;br&gt;Used as 2 in NSMBU 11-8 A1, NSMBU 11-8 A2&lt;br&gt;&lt;br&gt;Used as 3 in NSMBU 11-8 A1, NSMBU 11-8 A2" />
         <value title="Unknown Value 12" nybble="12" comment="Used as 0 in NSMBU 11-3 A1, NSMBU 11-8 A1, NSMBU 11-8 A2&lt;br&gt;&lt;br&gt;Used as 1 in NSMBU 11-1 A1, NSMBU 11-3 A1, NSMBU 11-7 A4, NSMBU 11-8 A1, NSMBU 11-8 A2&lt;br&gt;&lt;br&gt;Used as 2 in NSMBU 11-1 A1, NSMBU 11-3 A1, NSMBU 11-7 A2, NSMBU 11-8 A1, NSMBU 11-8 A2&lt;br&gt;&lt;br&gt;Used as 3 in NSMBU 11-1 A1, NSMBU 11-3 A1, NSMBU 11-7 A2, NSMBU 11-8 A1, NSMBU 11-8 A2&lt;br&gt;&lt;br&gt;Used as 4 in NSMBU 11-3 A1, NSMBU 11-8 A1, NSMBU 11-8 A2&lt;br&gt;&lt;br&gt;Used as 5 in NSMBU 11-3 A1, NSMBU 11-8 A2&lt;br&gt;&lt;br&gt;Used as 6 in NSMBU 11-3 A1, NSMBU 11-5 A2, NSMBU 11-8 A1, NSMBU 11-8 A2&lt;br&gt;&lt;br&gt;Used as 7 in NSMBU 11-3 A1, NSMBU 11-8 A1, NSMBU 11-8 A2&lt;br&gt;&lt;br&gt;Used as 8 in NSMBU 11-3 A1, NSMBU 11-8 A1, NSMBU 11-8 A2&lt;br&gt;&lt;br&gt;Used as 9 in NSMBU 11-3 A1, NSMBU 11-8 A1, NSMBU 11-8 A2&lt;br&gt;&lt;br&gt;Used as 10 in NSMBU 11-3 A1, NSMBU 11-8 A1, NSMBU 11-8 A2&lt;br&gt;&lt;br&gt;Used as 11 in NSMBU 11-3 A1, NSMBU 11-8 A1, NSMBU 11-8 A2&lt;br&gt;&lt;br&gt;Used as 12 in NSMBU 11-3 A1, NSMBU 11-8 A1, NSMBU 11-8 A2&lt;br&gt;&lt;br&gt;Used as 13 in NSMBU 11-3 A1, NSMBU 11-8 A2&lt;br&gt;&lt;br&gt;Used as 14 in NSMBU 11-3 A1, NSMBU 11-8 A2&lt;br&gt;&lt;br&gt;Used as 15 in NSMBU 11-3 A1, NSMBU 11-8 A1, NSMBU 11-8 A2" />
     </sprite>
-    <sprite id="623" name="You adjust the boundary velocity" notes="Used in NSMBU 3-2 A2">
+    <sprite id="623" name="&quot;You adjust the boundary velocity&quot;" notes="Used in NSMBU 3-2 A2">
         <checkbox title="Unknown Flag 5" nybble="5"/>
     </sprite>
-    <sprite id="624" name="&quot;Group ID spike top&quot;" notes="Used in NSLU 8-3 A1, NSMBU 13-3 A1, NSMBU 2-21 A1">
+    <sprite id="624" name="&quot;Group ID Spike Top&quot;" notes="Used in NSLU 8-3 A1, NSMBU 13-3 A1, NSMBU 2-21 A1">
         <value title="Unknown Value 6" nybble="6" comment="Used as 1 in NSLU 8-3 A1, NSMBU 13-3 A1&lt;br&gt;&lt;br&gt;Used as 2 in NSLU 8-3 A1&lt;br&gt;&lt;br&gt;Used as 4 in NSLU 8-3 A1&lt;br&gt;&lt;br&gt;Used as 9 in NSMBU 2-21 A1" />
     </sprite>
     <sprite id="625" name="UNKNOWN SPRITE" notes="Used in NSMBU 2-21 A1">
@@ -3354,7 +3354,7 @@ Please verify that your edits are syntactically correct before committing here! 
         <value title="Unknown Value 10" nybble="10" comment="Used as 1 in NSLU 9-7 A1&lt;br&gt;&lt;br&gt;Used as 2 in NSLU 9-7 A1&lt;br&gt;&lt;br&gt;Used as 3 in NSLU 9-7 A1&lt;br&gt;&lt;br&gt;Used as 4 in NSLU 9-7 A1" />
         <value title="Unknown Value 13" nybble="13" comment="Used as 0 in NSLU 9-7 A1&lt;br&gt;&lt;br&gt;Used as 3 in NSLU 9-7 A1" />
     </sprite>
-    <sprite id="630" name="Goal - NSLU" notes="Only used in all NSLU levels instead of the NSMBU goal flagpole. Probably has to do with the 1-UPs Nabbit gets.">
+    <sprite id="630" name="Goal Pole - NSLU" notes="Only used in all NSLU levels instead of the NSMBU goal flagpole. Probably has to do with the 1-UPs Nabbit gets.">
         <value title="Unknown Value 5" nybble="5" comment="Used as 0 in NSLU 1-1 A1, NSLU 1-13 A1, NSLU 1-2 A1, NSLU 1-3 A1, NSLU 1-4 A1, NSLU 1-5 A1, NSLU 2-1 A1, NSLU 2-14 A1, NSLU 2-2 A1, NSLU 2-3 A1, NSLU 2-4 A1, NSLU 2-5 A1, NSLU 2-6 A1, NSLU 3-1 A1, NSLU 3-15 A2, NSLU 3-2 A1, NSLU 3-20 A1, NSLU 3-3 A1, NSLU 3-4 A1, NSLU 3-5 A1, NSLU 4-1 A1, NSLU 4-16 A1, NSLU 4-2 A1, NSLU 4-20 A2, NSLU 4-3 A1, NSLU 4-4 A1, NSLU 4-5 A1, NSLU 5-1 A1, NSLU 5-17 A1, NSLU 5-2 A1, NSLU 5-20 A2, NSLU 5-3 A1, NSLU 5-5 A1, NSLU 5-6 A1, NSLU 5-7 A2, NSLU 6-1 A1, NSLU 6-2 A1, NSLU 6-3 A1, NSLU 6-4 A2, NSLU 6-5 A1, NSLU 6-6 A1, NSLU 6-7 A1, NSLU 7-1 A1, NSLU 7-2 A1, NSLU 7-20 A2, NSLU 7-3 A1, NSLU 7-4 A1, NSLU 7-5 A1, NSLU 7-6 A1, NSLU 8-1 A1, NSLU 8-2 A1, NSLU 8-3 A1, NSLU 8-4 A2, NSLU 8-42 A3, NSLU 9-1 A1, NSLU 9-2 A1, NSLU 9-3 A1, NSLU 9-4 A1, NSLU 9-6 A1, NSLU 9-7 A1, NSLU 9-8 A2, NSLU 9-9 A2&lt;br&gt;&lt;br&gt;Used as 1 in NSLU 1-2 A1, NSLU 2-4 A2, NSLU 3-20 A1, NSLU 4-20 A2, NSLU 5-2 A2, NSLU 5-20 A2, NSLU 5-5 A1, NSLU 6-21 A3, NSLU 6-5 A1, NSLU 7-20 A2, NSLU 8-1 A1" />
         <value title="Unknown Value 11" nybble="11" comment="Used as 0 in NSLU 1-1 A1, NSLU 1-13 A1, NSLU 1-2 A1, NSLU 1-3 A1, NSLU 1-4 A1, NSLU 1-5 A1, NSLU 2-1 A1, NSLU 2-14 A1, NSLU 2-2 A1, NSLU 2-3 A1, NSLU 2-4 A1, NSLU 2-4 A2, NSLU 2-5 A1, NSLU 2-6 A1, NSLU 3-1 A1, NSLU 3-15 A2, NSLU 3-2 A1, NSLU 3-20 A1, NSLU 3-3 A1, NSLU 3-4 A1, NSLU 3-5 A1, NSLU 4-1 A1, NSLU 4-16 A1, NSLU 4-2 A1, NSLU 4-20 A2, NSLU 4-3 A1, NSLU 4-4 A1, NSLU 4-5 A1, NSLU 5-1 A1, NSLU 5-17 A1, NSLU 5-2 A1, NSLU 5-2 A2, NSLU 5-20 A2, NSLU 5-3 A1, NSLU 5-5 A1, NSLU 5-6 A1, NSLU 5-7 A2, NSLU 6-1 A1, NSLU 6-2 A1, NSLU 6-21 A3, NSLU 6-3 A1, NSLU 6-4 A2, NSLU 6-5 A1, NSLU 6-6 A1, NSLU 6-7 A1, NSLU 7-1 A1, NSLU 7-2 A1, NSLU 7-20 A2, NSLU 7-3 A1, NSLU 7-4 A1, NSLU 7-5 A1, NSLU 7-6 A1, NSLU 8-1 A1, NSLU 8-2 A1, NSLU 8-3 A1, NSLU 8-4 A2, NSLU 9-1 A1, NSLU 9-2 A1, NSLU 9-3 A1, NSLU 9-4 A1, NSLU 9-6 A1, NSLU 9-7 A1, NSLU 9-8 A2, NSLU 9-9 A2&lt;br&gt;&lt;br&gt;Used as 1 in NSLU 8-42 A3" />
         <value title="Unknown Value 12" nybble="12" comment="Used as 0 in NSLU 1-1 A1, NSLU 1-13 A1, NSLU 1-2 A1, NSLU 1-3 A1, NSLU 1-4 A1, NSLU 1-5 A1, NSLU 2-1 A1, NSLU 2-2 A1, NSLU 2-3 A1, NSLU 2-4 A1, NSLU 2-4 A2, NSLU 2-5 A1, NSLU 2-6 A1, NSLU 3-1 A1, NSLU 3-15 A2, NSLU 3-2 A1, NSLU 3-20 A1, NSLU 3-3 A1, NSLU 3-4 A1, NSLU 3-5 A1, NSLU 4-20 A2, NSLU 5-1 A1, NSLU 5-17 A1, NSLU 5-2 A1, NSLU 5-2 A2, NSLU 5-20 A2, NSLU 5-3 A1, NSLU 5-5 A1, NSLU 5-6 A1, NSLU 5-7 A2, NSLU 6-1 A1, NSLU 6-2 A1, NSLU 6-21 A3, NSLU 6-3 A1, NSLU 6-4 A2, NSLU 6-5 A1, NSLU 6-6 A1, NSLU 6-7 A1, NSLU 7-1 A1, NSLU 7-2 A1, NSLU 7-20 A2, NSLU 7-3 A1, NSLU 7-4 A1, NSLU 7-5 A1, NSLU 7-6 A1, NSLU 8-1 A1, NSLU 8-2 A1, NSLU 8-3 A1, NSLU 8-4 A2, NSLU 8-42 A3, NSLU 9-1 A1, NSLU 9-2 A1, NSLU 9-3 A1, NSLU 9-6 A1, NSLU 9-7 A1, NSLU 9-8 A2&lt;br&gt;&lt;br&gt;Used as 1 in NSLU 2-14 A1, NSLU 4-1 A1, NSLU 4-16 A1, NSLU 4-2 A1, NSLU 4-3 A1, NSLU 4-4 A1, NSLU 4-5 A1, NSLU 9-4 A1, NSLU 9-9 A2" />
@@ -3370,9 +3370,9 @@ Please verify that your edits are syntactically correct before committing here! 
     <sprite id="633" name="UNKNOWN SPRITE" notes="Used in NSLU 8-42 A1, NSLU 8-42 A2">
         <value title="Unknown Value 6" nybble="6" comment="Used as 0 in NSLU 8-42 A1, NSLU 8-42 A2&lt;br&gt;&lt;br&gt;Used as 1 in NSLU 8-42 A1" />
     </sprite>
-    <sprite id="634" name="NSLU help block" notes="Gives all players NSMBU physics when activated."/>
-    <sprite id="635" name="Big blue door" notes="Used in NSLU 1-23 A1, NSLU 2-23 A1, NSLU 3-23 A1, NSLU 4-23 A1, NSLU 5-23 A1, NSLU 6-23 A1, NSLU 6-23 A3, NSLU 7-23 A1"/>
-    <sprite id="636" name="Big red door" notes="Used in NSLU 1-21 A1, NSLU 2-21 A1, NSLU 3-21 A1, NSLU 4-21 A1, NSLU 5-21 A1, NSLU 6-21 A1, NSLU 6-22 A1, NSLU 7-21 A1">
+    <sprite id="634" name="Super Guide Block - NSLU" notes="Gives all players NSMBU physics when activated."/>
+    <sprite id="635" name="Big Blue Door" notes="Used in NSLU 1-23 A1, NSLU 2-23 A1, NSLU 3-23 A1, NSLU 4-23 A1, NSLU 5-23 A1, NSLU 6-23 A1, NSLU 6-23 A3, NSLU 7-23 A1"/>
+    <sprite id="636" name="Big Red Door" notes="Used in NSLU 1-21 A1, NSLU 2-21 A1, NSLU 3-21 A1, NSLU 4-21 A1, NSLU 5-21 A1, NSLU 6-21 A1, NSLU 6-22 A1, NSLU 7-21 A1">
         <value title="Unknown Value 6" nybble="6" comment="Used as 0 in NSLU 1-21 A1, NSLU 3-21 A1, NSLU 4-21 A1, NSLU 5-21 A1, NSLU 6-21 A1, NSLU 7-21 A1&lt;br&gt;&lt;br&gt;Used as 1 in NSLU 2-21 A1, NSLU 6-22 A1" />
     </sprite>
     <sprite id="637" name="UNKNOWN SPRITE" notes="Used in NSLU 8-43 A1"/>
@@ -3384,7 +3384,7 @@ Please verify that your edits are syntactically correct before committing here! 
     <sprite id="639" name="UNKNOWN SPRITE" notes="Used in NSLU 5-37 A1, NSLU 7-37 A1">
         <value title="Unknown Value 12" nybble="12" comment="Used as 2 in NSLU 7-37 A1&lt;br&gt;&lt;br&gt;Used as 3 in NSLU 5-37 A1" />
     </sprite>
-    <sprite id="640" name="Fire chomp or fire chomp spawner" notes="Used in NSLU 7-5 A1"/>
+    <sprite id="640" name="Fire Chomp or Fire Chomp Spawner (?)" notes="Used in NSLU 7-5 A1"/>
     <sprite id="641" name="UNKNOWN SPRITE" notes="Used in NSLU 7-2 A1"/>
     <sprite id="642" name="UNKNOWN SPRITE" notes="Used in NSLU 7-21 A1, NSLU 8-43 A1">
         <value title="Unknown Value 4" nybble="4" comment="Used as 1 in NSLU 8-43 A1&lt;br&gt;&lt;br&gt;Used as 3 in NSLU 7-21 A1&lt;br&gt;&lt;br&gt;Used as 7 in NSLU 7-21 A1" />
@@ -3410,7 +3410,7 @@ Please verify that your edits are syntactically correct before committing here! 
         <value title="Unknown Value 18" nybble="18" comment="Used as 0 in NSLU 8-3 A1&lt;br&gt;&lt;br&gt;Used as 11 in NSLU 8-3 A1" />
     </sprite>
     <sprite id="645" name="UNKNOWN SPRITE" notes="Used in NSLU 5-6 A1"/>
-    <sprite id="646" name="Banzai bill launcher with luigi emblem?" notes="Used in NSLU 4-4 A1"/>
+    <sprite id="646" name="Banzai Bill Launcher with Luigi Emblem (?)" notes="Used in NSLU 4-4 A1"/>
     <sprite id="647" name="UNUSED SPRITE [Unused]" />
     <sprite id="648" name="UNUSED SPRITE [Unused]" />
     <sprite id="649" name="UNUSED SPRITE [Unused]" />
@@ -3439,7 +3439,7 @@ Please verify that your edits are syntactically correct before committing here! 
         <value title="Unknown Value 11" nybble="11" comment="Used as 3 in NSLU 1-4 A1, NSLU 1-5 A1, NSLU 2-14 A1, NSLU 2-2 A1, NSLU 2-5 A1, NSLU 2-6 A1, NSLU 3-3 A1, NSLU 3-4 A1, NSLU 4-1 A1, NSLU 4-20 A2, NSLU 4-3 A1, NSLU 4-5 A1, NSLU 5-1 A1, NSLU 5-3 A1, NSLU 5-7 A2, NSLU 6-1 A1, NSLU 6-2 A1, NSLU 6-3 A1, NSLU 6-4 A2, NSLU 6-5 A1, NSLU 7-2 A1, NSLU 7-5 A1, NSLU 9-2 A1, NSLU 9-3 A1, NSLU 9-4 A1, NSLU 9-5 A1&lt;br&gt;&lt;br&gt;Used as 4 in NSLU 2-4 A1, NSLU 2-4 A2, NSLU 3-2 A1, NSLU 4-4 A1, NSLU 6-7 A1, NSLU 7-1 A1, NSLU 7-20 A2, NSLU 9-9 A2&lt;br&gt;&lt;br&gt;Used as 5 in NSLU 1-13 A1, NSLU 3-5 A1, NSLU 5-5 A1, NSLU 5-6 A1, NSLU 8-1 A1, NSLU 8-3 A1, NSLU 8-4 A2&lt;br&gt;&lt;br&gt;Used as 6 in NSLU 5-2 A2&lt;br&gt;&lt;br&gt;Used as 7 in NSLU 3-15 A2&lt;br&gt;&lt;br&gt;Used as 8 in NSLU 5-4 A1&lt;br&gt;&lt;br&gt;Used as 10 in NSLU 1-1 A1, NSLU 1-2 A1, NSLU 2-3 A1, NSLU 3-20 A1, NSLU 4-16 A1, NSLU 4-2 A1, NSLU 5-20 A2, NSLU 6-21 A3, NSLU 8-42 A3&lt;br&gt;&lt;br&gt;Used as 15 in NSLU 9-6 A1, NSLU 9-7 A1" />
     </sprite>
     <sprite id="657" name="UNUSED SPRITE [Unused]" />
-    <sprite id="658" name="Some other kind of line-controlled lift" notes="Used in NSLU 2-5 A1, NSLU 4-21 A1, NSLU 6-5 A1">
+    <sprite id="658" name="Line-Controlled Platform (?)" notes="Used in NSLU 2-5 A1, NSLU 4-21 A1, NSLU 6-5 A1">
         <value title="Unknown Value 6" nybble="6" comment="Used as 0 in NSLU 2-5 A1, NSLU 4-21 A1, NSLU 6-5 A1&lt;br&gt;&lt;br&gt;Used as 11 in NSLU 2-5 A1" />
         <value title="Unknown Value 7" nybble="7" comment="Used as 0 in NSLU 2-5 A1, NSLU 6-5 A1&lt;br&gt;&lt;br&gt;Used as 1 in NSLU 2-5 A1, NSLU 4-21 A1&lt;br&gt;&lt;br&gt;Used as 2 in NSLU 2-5 A1" />
         <value title="Unknown Value 8" nybble="8" comment="Used as 0 in NSLU 4-21 A1, NSLU 6-5 A1&lt;br&gt;&lt;br&gt;Used as 1 in NSLU 2-5 A1, NSLU 6-5 A1" />
@@ -3470,7 +3470,7 @@ Please verify that your edits are syntactically correct before committing here! 
     <sprite id="664" name="UNKNOWN SPRITE" notes="Used in NSLU 3-5 A2"/>
     <sprite id="665" name="UNKNOWN SPRITE" notes="Used in NSLU 2-4 A1"/>
     <sprite id="666" name="UNKNOWN SPRITE" notes="Used in NSLU 7-37 A1"/>
-    <sprite id="667" name="NSLU pipe cannon" notes="When entered, 100 seconds are added to the timer. Used in NSLU 7-37 A1">
+    <sprite id="667" name="Pipe Cannon - NSLU" notes="When entered, 100 seconds are added to the timer. Used in NSLU 7-37 A1">
         <list title="Firing Direction" nybble="12" comment="For main pipe cannon sprite - Used as 5 in NSLU 5-5 A1, NSLU 8-42 A2, NSMBU 1-2 A3, NSMBU 7-4 A1&lt;br&gt;&lt;br&gt;Used as 7 in NSMBU 5-2 A1" >
             <entry value="0">UNUSED</entry>
             <entry value="1">UNUSED</entry>
@@ -3509,7 +3509,7 @@ Please verify that your edits are syntactically correct before committing here! 
         <value title="Unknown Value 21" nybble="21" comment="Used as 0 in NSLU 8-3 A1&lt;br&gt;&lt;br&gt;Used as 1 in NSLU 8-3 A1&lt;br&gt;&lt;br&gt;Used as 2 in NSLU 8-3 A1" />
         <value title="Unknown Value 22" nybble="22" comment="Used as 0 in NSLU 8-3 A1&lt;br&gt;&lt;br&gt;Used as 1 in NSLU 8-3 A1&lt;br&gt;&lt;br&gt;Used as 2 in NSLU 8-3 A1&lt;br&gt;&lt;br&gt;Used as 4 in NSLU 8-3 A1&lt;br&gt;&lt;br&gt;Used as 5 in NSLU 8-3 A1&lt;br&gt;&lt;br&gt;Used as 6 in NSLU 8-3 A1&lt;br&gt;&lt;br&gt;Used as 11 in NSLU 8-3 A1&lt;br&gt;&lt;br&gt;Used as 12 in NSLU 8-3 A1&lt;br&gt;&lt;br&gt;Used as 13 in NSLU 8-3 A1" />
     </sprite>
-    <sprite id="676" name="NSLU blue lift?" notes="Used in NSLU 3-21 A1">
+    <sprite id="676" name="Blue Platform - NSLU" notes="Used in NSLU 3-21 A1">
         <value title="Unknown Value 9" nybble="9" comment="Used as 0 in NSLU 3-21 A1&lt;br&gt;&lt;br&gt;Used as 1 in NSLU 3-21 A1" />
         <value title="Unknown Value 22" nybble="22" comment="Used as 1 in NSLU 3-21 A1&lt;br&gt;&lt;br&gt;Used as 3 in NSLU 3-21 A1" />
     </sprite>
@@ -3532,7 +3532,7 @@ Please verify that your edits are syntactically correct before committing here! 
         <value title="Unknown Value 6" nybble="6" comment="Used as 0 in NSLU 7-3 A1&lt;br&gt;&lt;br&gt;Used as 3 in NSLU 7-3 A1" />
         <value title="Unknown Value 10" nybble="10" comment="Used as 1 in NSLU 7-3 A1&lt;br&gt;&lt;br&gt;Used as 4 in NSLU 7-3 A1" />
     </sprite>
-    <sprite id="686" name="NSLU Some other kind of p switch?" notes="Used in NSLU 9-2 A1">
+    <sprite id="686" name="P-Switch - NSLU (?)" notes="Used in NSLU 9-2 A1">
         <value title="Unknown Value 3" nybble="3" comment="Used as 0 in NSLU 9-2 A1&lt;br&gt;&lt;br&gt;Used as 3 in NSLU 9-2 A1" />
         <value title="Unknown Value 4" nybble="4" comment="Used as 0 in NSLU 9-2 A1&lt;br&gt;&lt;br&gt;Used as 1 in NSLU 9-2 A1&lt;br&gt;&lt;br&gt;Used as 11 in NSLU 9-2 A1" />
     </sprite>
@@ -3559,7 +3559,7 @@ Please verify that your edits are syntactically correct before committing here! 
         <value title="Unknown Value 21" nybble="21" comment="Used as 0 in NSLU 4-20 A1&lt;br&gt;&lt;br&gt;Used as 1 in NSLU 4-20 A1" />
         <value title="Unknown Value 22" nybble="22" comment="Used as 0 in NSLU 4-20 A1&lt;br&gt;&lt;br&gt;Used as 1 in NSLU 4-20 A1&lt;br&gt;&lt;br&gt;Used as 2 in NSLU 4-20 A1&lt;br&gt;&lt;br&gt;Used as 3 in NSLU 4-20 A1&lt;br&gt;&lt;br&gt;Used as 4 in NSLU 4-20 A1&lt;br&gt;&lt;br&gt;Used as 5 in NSLU 4-20 A1&lt;br&gt;&lt;br&gt;Used as 6 in NSLU 4-20 A1&lt;br&gt;&lt;br&gt;Used as 7 in NSLU 4-20 A1&lt;br&gt;&lt;br&gt;Used as 8 in NSLU 4-20 A1&lt;br&gt;&lt;br&gt;Used as 9 in NSLU 4-20 A1&lt;br&gt;&lt;br&gt;Used as 10 in NSLU 4-20 A1&lt;br&gt;&lt;br&gt;Used as 11 in NSLU 4-20 A1&lt;br&gt;&lt;br&gt;Used as 12 in NSLU 4-20 A1&lt;br&gt;&lt;br&gt;Used as 13 in NSLU 4-20 A1&lt;br&gt;&lt;br&gt;Used as 14 in NSLU 4-20 A1&lt;br&gt;&lt;br&gt;Used as 15 in NSLU 4-20 A1" />
     </sprite>
-    <sprite id="697" name="NSLU metal box?" notes="Used in NSLU 6-23 A1, NSLU 9-2 A1">
+    <sprite id="697" name="Metal Box - NSLU (?)" notes="Used in NSLU 6-23 A1, NSLU 9-2 A1">
         <value title="Unknown Value 7" nybble="7" comment="Used as 0 in NSLU 6-23 A1, NSLU 9-2 A1&lt;br&gt;&lt;br&gt;Used as 1 in NSLU 6-23 A1" />
         <value title="Unknown Value 9" nybble="9" comment="Used as 0 in NSLU 6-23 A1, NSLU 9-2 A1&lt;br&gt;&lt;br&gt;Used as 1 in NSLU 9-2 A1" />
         <value title="Unknown Value 11" nybble="11" comment="Used as 0 in NSLU 6-23 A1, NSLU 9-2 A1&lt;br&gt;&lt;br&gt;Used as 1 in NSLU 6-23 A1, NSLU 9-2 A1&lt;br&gt;&lt;br&gt;Used as 2 in NSLU 6-23 A1, NSLU 9-2 A1&lt;br&gt;&lt;br&gt;Used as 3 in NSLU 6-23 A1, NSLU 9-2 A1" />
@@ -3599,7 +3599,7 @@ Please verify that your edits are syntactically correct before committing here! 
         <value title="Unknown Value 21" nybble="21" comment="Used as 5 in NSLU 5-2 A1&lt;br&gt;&lt;br&gt;Used as 6 in NSLU 5-2 A1&lt;br&gt;&lt;br&gt;Used as 7 in NSLU 5-2 A1&lt;br&gt;&lt;br&gt;Used as 8 in NSLU 5-2 A1&lt;br&gt;&lt;br&gt;Used as 9 in NSLU 5-2 A1" />
         <value title="Unknown Value 22" nybble="22" comment="Used as 0 in NSLU 5-2 A1&lt;br&gt;&lt;br&gt;Used as 1 in NSLU 5-2 A1&lt;br&gt;&lt;br&gt;Used as 2 in NSLU 5-2 A1&lt;br&gt;&lt;br&gt;Used as 3 in NSLU 5-2 A1&lt;br&gt;&lt;br&gt;Used as 4 in NSLU 5-2 A1&lt;br&gt;&lt;br&gt;Used as 5 in NSLU 5-2 A1&lt;br&gt;&lt;br&gt;Used as 6 in NSLU 5-2 A1&lt;br&gt;&lt;br&gt;Used as 7 in NSLU 5-2 A1&lt;br&gt;&lt;br&gt;Used as 8 in NSLU 5-2 A1&lt;br&gt;&lt;br&gt;Used as 9 in NSLU 5-2 A1&lt;br&gt;&lt;br&gt;Used as 10 in NSLU 5-2 A1&lt;br&gt;&lt;br&gt;Used as 11 in NSLU 5-2 A1&lt;br&gt;&lt;br&gt;Used as 12 in NSLU 5-2 A1&lt;br&gt;&lt;br&gt;Used as 13 in NSLU 5-2 A1&lt;br&gt;&lt;br&gt;Used as 14 in NSLU 5-2 A1&lt;br&gt;&lt;br&gt;Used as 15 in NSLU 5-2 A1" />
     </sprite>
-    <sprite id="705" name="Some other kind of water geyser? (small? fast?)" notes="Used in NSLU 3-3 A1">
+    <sprite id="705" name="Water Geyser - NSLU (?)" notes="Used in NSLU 3-3 A1">
         <value title="Unknown Value 6" nybble="6" comment="Used as 5 in NSLU 3-3 A1&lt;br&gt;&lt;br&gt;Used as 6 in NSLU 3-3 A1&lt;br&gt;&lt;br&gt;Used as 8 in NSLU 3-3 A1" />
         <value title="Unknown Value 7" nybble="7" comment="Used as 1 in NSLU 3-3 A1&lt;br&gt;&lt;br&gt;Used as 3 in NSLU 3-3 A1&lt;br&gt;&lt;br&gt;Used as 4 in NSLU 3-3 A1" />
         <value title="Unknown Value 10" nybble="10" comment="Used as 0 in NSLU 3-3 A1&lt;br&gt;&lt;br&gt;Used as 1 in NSLU 3-3 A1&lt;br&gt;&lt;br&gt;Used as 2 in NSLU 3-3 A1&lt;br&gt;&lt;br&gt;Used as 3 in NSLU 3-3 A1&lt;br&gt;&lt;br&gt;Used as 4 in NSLU 3-3 A1&lt;br&gt;&lt;br&gt;Used as 5 in NSLU 3-3 A1&lt;br&gt;&lt;br&gt;Used as 6 in NSLU 3-3 A1&lt;br&gt;&lt;br&gt;Used as 7 in NSLU 3-3 A1&lt;br&gt;&lt;br&gt;Used as 8 in NSLU 3-3 A1&lt;br&gt;&lt;br&gt;Used as 9 in NSLU 3-3 A1&lt;br&gt;&lt;br&gt;Used as 10 in NSLU 3-3 A1&lt;br&gt;&lt;br&gt;Used as 11 in NSLU 3-3 A1&lt;br&gt;&lt;br&gt;Used as 12 in NSLU 3-3 A1&lt;br&gt;&lt;br&gt;Used as 13 in NSLU 3-3 A1&lt;br&gt;&lt;br&gt;Used as 14 in NSLU 3-3 A1&lt;br&gt;&lt;br&gt;Used as 15 in NSLU 3-3 A1" />
