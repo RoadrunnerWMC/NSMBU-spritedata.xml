@@ -456,7 +456,7 @@ Please verify that your edits are syntactically correct before committing here! 
         <value title="Unknown Value 16" nybble="16" comment="Used as 0 in NSLU 1-1 A1, NSLU 1-13 A2, NSLU 1-2 A1, NSLU 1-21 A1, NSLU 1-3 A1, NSLU 1-4 A1, NSLU 1-5 A1, NSLU 2-1 A1, NSLU 2-14 A1, NSLU 2-2 A2, NSLU 2-21 A1, NSLU 2-3 A2, NSLU 2-4 A1, NSLU 2-5 A1, NSLU 2-6 A1, NSLU 3-1 A1, NSLU 3-2 A2, NSLU 3-20 A1, NSLU 3-21 A1, NSLU 3-23 A1, NSLU 3-3 A1, NSLU 3-32 A1, NSLU 3-33 A1, NSLU 3-34 A1, NSLU 3-5 A1, NSLU 3-55 A1, NSLU 4-1 A1, NSLU 4-16 A1, NSLU 4-2 A1, NSLU 4-20 A1, NSLU 4-21 A1, NSLU 4-23 A1, NSLU 4-3 A1, NSLU 4-4 A1, NSLU 5-2 A1, NSLU 5-20 A1, NSLU 5-23 A1, NSLU 5-37 A1, NSLU 5-4 A1, NSLU 5-5 A1, NSLU 5-6 A1, NSLU 6-1 A1, NSLU 6-2 A1, NSLU 6-22 A1, NSLU 6-23 A1, NSLU 6-23 A3, NSLU 6-3 A1, NSLU 6-4 A1, NSLU 6-5 A1, NSLU 6-7 A2, NSLU 7-1 A1, NSLU 7-2 A1, NSLU 7-20 A1, NSLU 7-21 A1, NSLU 7-23 A1, NSLU 7-3 A1, NSLU 7-37 A1, NSLU 7-4 A1, NSLU 7-5 A1, NSLU 7-6 A1, NSLU 8-1 A1, NSLU 8-2 A1, NSLU 8-3 A1, NSLU 8-4 A1, NSLU 8-42 A1, NSLU 8-43 A1, NSLU 9-1 A1, NSLU 9-2 A1, NSLU 9-3 A1, NSLU 9-3 A2, NSLU 9-4 A1, NSLU 9-7 A1, NSLU 9-8 A1, NSMBU 1-1 A1, NSMBU 1-13 A2, NSMBU 1-21 A1, NSMBU 1-23 A1, NSMBU 1-3 A1, NSMBU 1-4 A1, NSMBU 1-5 A1, NSMBU 11-1 A1, NSMBU 11-3 A1, NSMBU 11-5 A2, NSMBU 11-7 A1, NSMBU 11-7 A2, NSMBU 11-7 A3, NSMBU 11-8 A2, NSMBU 14-2 A1, NSMBU 2-1 A1, NSMBU 2-14 A1, NSMBU 2-2 A2, NSMBU 2-23 A1, NSMBU 2-3 A1, NSMBU 2-3 A2, NSMBU 2-5 A1, NSMBU 2-6 A1, NSMBU 3-1 A1, NSMBU 3-2 A2, NSMBU 3-20 A1, NSMBU 3-21 A2, NSMBU 3-23 A1, NSMBU 3-3 A1, NSMBU 3-3 A2, NSMBU 3-32 A1, NSMBU 3-33 A1, NSMBU 3-34 A1, NSMBU 3-4 A1, NSMBU 3-5 A2, NSMBU 3-55 A1, NSMBU 4-1 A1, NSMBU 4-16 A1, NSMBU 4-2 A1, NSMBU 4-21 A1, NSMBU 4-23 A1, NSMBU 4-3 A1, NSMBU 4-4 A1, NSMBU 4-5 A2, NSMBU 5-17 A1, NSMBU 5-20 A1, NSMBU 5-20 A2, NSMBU 5-21 A1, NSMBU 5-23 A1, NSMBU 5-3 A1, NSMBU 5-37 A1, NSMBU 5-4 A1, NSMBU 5-5 A1, NSMBU 5-5 A2, NSMBU 5-5 A3, NSMBU 5-6 A1, NSMBU 5-7 A1, NSMBU 6-1 A1, NSMBU 6-2 A1, NSMBU 6-21 A1, NSMBU 6-23 A1, NSMBU 6-23 A3, NSMBU 6-3 A1, NSMBU 6-4 A1, NSMBU 6-6 A1, NSMBU 6-6 A2, NSMBU 6-7 A2, NSMBU 7-1 A1, NSMBU 7-1 A2, NSMBU 7-2 A1, NSMBU 7-20 A2, NSMBU 7-20 A4, NSMBU 7-21 A1, NSMBU 7-21 A2, NSMBU 7-23 A1, NSMBU 7-3 A1, NSMBU 7-37 A1, NSMBU 7-5 A1, NSMBU 7-6 A1, NSMBU 8-1 A1, NSMBU 8-2 A1, NSMBU 8-4 A1, NSMBU 9-1 A1, NSMBU 9-3 A2, NSMBU 9-4 A2, NSMBU 9-5 A1, NSMBU 9-6 A1, NSMBU 9-6 A2, NSMBU 9-8 A1&lt;br&gt;&lt;br&gt;Used as 6 in NSMBU 1-21 A1" />
         <value title="Unknown Value 17" nybble="17" comment="Used as 0 in NSLU 1-1 A1, NSLU 1-13 A2, NSLU 1-2 A1, NSLU 1-21 A1, NSLU 1-3 A1, NSLU 1-4 A1, NSLU 1-5 A1, NSLU 2-1 A1, NSLU 2-14 A1, NSLU 2-2 A2, NSLU 2-21 A1, NSLU 2-3 A2, NSLU 2-4 A1, NSLU 2-5 A1, NSLU 2-6 A1, NSLU 3-1 A1, NSLU 3-2 A2, NSLU 3-20 A1, NSLU 3-21 A1, NSLU 3-23 A1, NSLU 3-3 A1, NSLU 3-32 A1, NSLU 3-33 A1, NSLU 3-34 A1, NSLU 3-5 A1, NSLU 3-55 A1, NSLU 4-1 A1, NSLU 4-16 A1, NSLU 4-2 A1, NSLU 4-20 A1, NSLU 4-21 A1, NSLU 4-23 A1, NSLU 4-3 A1, NSLU 4-4 A1, NSLU 5-2 A1, NSLU 5-20 A1, NSLU 5-23 A1, NSLU 5-37 A1, NSLU 5-4 A1, NSLU 5-5 A1, NSLU 5-6 A1, NSLU 6-1 A1, NSLU 6-2 A1, NSLU 6-22 A1, NSLU 6-23 A1, NSLU 6-23 A3, NSLU 6-3 A1, NSLU 6-4 A1, NSLU 6-5 A1, NSLU 6-7 A2, NSLU 7-1 A1, NSLU 7-2 A1, NSLU 7-20 A1, NSLU 7-21 A1, NSLU 7-23 A1, NSLU 7-3 A1, NSLU 7-37 A1, NSLU 7-4 A1, NSLU 7-5 A1, NSLU 7-6 A1, NSLU 8-1 A1, NSLU 8-2 A1, NSLU 8-3 A1, NSLU 8-4 A1, NSLU 8-42 A1, NSLU 8-43 A1, NSLU 9-1 A1, NSLU 9-2 A1, NSLU 9-3 A1, NSLU 9-3 A2, NSLU 9-4 A1, NSLU 9-7 A1, NSLU 9-8 A1, NSMBU 1-1 A1, NSMBU 1-13 A2, NSMBU 1-21 A1, NSMBU 1-23 A1, NSMBU 1-3 A1, NSMBU 1-4 A1, NSMBU 1-5 A1, NSMBU 11-1 A1, NSMBU 11-3 A1, NSMBU 11-5 A2, NSMBU 11-7 A1, NSMBU 11-7 A2, NSMBU 11-7 A3, NSMBU 11-8 A2, NSMBU 14-2 A1, NSMBU 2-1 A1, NSMBU 2-14 A1, NSMBU 2-2 A2, NSMBU 2-23 A1, NSMBU 2-3 A1, NSMBU 2-3 A2, NSMBU 2-5 A1, NSMBU 2-6 A1, NSMBU 3-1 A1, NSMBU 3-2 A2, NSMBU 3-20 A1, NSMBU 3-21 A2, NSMBU 3-23 A1, NSMBU 3-3 A1, NSMBU 3-3 A2, NSMBU 3-32 A1, NSMBU 3-33 A1, NSMBU 3-34 A1, NSMBU 3-4 A1, NSMBU 3-5 A2, NSMBU 3-55 A1, NSMBU 4-1 A1, NSMBU 4-16 A1, NSMBU 4-2 A1, NSMBU 4-21 A1, NSMBU 4-23 A1, NSMBU 4-3 A1, NSMBU 4-4 A1, NSMBU 4-5 A2, NSMBU 5-17 A1, NSMBU 5-20 A1, NSMBU 5-20 A2, NSMBU 5-21 A1, NSMBU 5-23 A1, NSMBU 5-3 A1, NSMBU 5-37 A1, NSMBU 5-4 A1, NSMBU 5-5 A1, NSMBU 5-5 A2, NSMBU 5-5 A3, NSMBU 5-6 A1, NSMBU 5-7 A1, NSMBU 6-1 A1, NSMBU 6-2 A1, NSMBU 6-21 A1, NSMBU 6-23 A1, NSMBU 6-23 A3, NSMBU 6-3 A1, NSMBU 6-4 A1, NSMBU 6-6 A1, NSMBU 6-6 A2, NSMBU 6-7 A2, NSMBU 7-1 A1, NSMBU 7-1 A2, NSMBU 7-2 A1, NSMBU 7-20 A2, NSMBU 7-20 A4, NSMBU 7-21 A1, NSMBU 7-21 A2, NSMBU 7-23 A1, NSMBU 7-3 A1, NSMBU 7-37 A1, NSMBU 7-5 A1, NSMBU 7-6 A1, NSMBU 8-1 A1, NSMBU 8-2 A1, NSMBU 8-4 A1, NSMBU 9-1 A1, NSMBU 9-3 A2, NSMBU 9-4 A2, NSMBU 9-5 A1, NSMBU 9-6 A1, NSMBU 9-6 A2, NSMBU 9-8 A1&lt;br&gt;&lt;br&gt;Used as 1 in NSMBU 1-5 A1&lt;br&gt;&lt;br&gt;Used as 2 in NSMBU 7-23 A1" />
         <value title="Unknown Value 19" nybble="19" comment="Used as 0 in NSLU 1-1 A1, NSLU 1-13 A2, NSLU 1-2 A1, NSLU 1-21 A1, NSLU 1-3 A1, NSLU 1-4 A1, NSLU 1-5 A1, NSLU 2-1 A1, NSLU 2-14 A1, NSLU 2-2 A2, NSLU 2-21 A1, NSLU 2-3 A2, NSLU 2-4 A1, NSLU 2-5 A1, NSLU 2-6 A1, NSLU 3-1 A1, NSLU 3-2 A2, NSLU 3-20 A1, NSLU 3-21 A1, NSLU 3-23 A1, NSLU 3-3 A1, NSLU 3-32 A1, NSLU 3-33 A1, NSLU 3-34 A1, NSLU 3-5 A1, NSLU 3-55 A1, NSLU 4-1 A1, NSLU 4-16 A1, NSLU 4-2 A1, NSLU 4-20 A1, NSLU 4-21 A1, NSLU 4-23 A1, NSLU 4-3 A1, NSLU 4-4 A1, NSLU 5-2 A1, NSLU 5-20 A1, NSLU 5-37 A1, NSLU 5-4 A1, NSLU 5-5 A1, NSLU 5-6 A1, NSLU 6-1 A1, NSLU 6-2 A1, NSLU 6-22 A1, NSLU 6-23 A1, NSLU 6-23 A3, NSLU 6-3 A1, NSLU 6-4 A1, NSLU 6-5 A1, NSLU 6-7 A2, NSLU 7-1 A1, NSLU 7-2 A1, NSLU 7-20 A1, NSLU 7-21 A1, NSLU 7-23 A1, NSLU 7-3 A1, NSLU 7-4 A1, NSLU 7-5 A1, NSLU 7-6 A1, NSLU 8-1 A1, NSLU 8-2 A1, NSLU 8-3 A1, NSLU 8-4 A1, NSLU 8-42 A1, NSLU 8-43 A1, NSLU 9-1 A1, NSLU 9-2 A1, NSLU 9-3 A1, NSLU 9-3 A2, NSLU 9-4 A1, NSLU 9-7 A1, NSLU 9-8 A1, NSMBU 1-1 A1, NSMBU 1-13 A2, NSMBU 1-21 A1, NSMBU 1-23 A1, NSMBU 1-3 A1, NSMBU 1-4 A1, NSMBU 1-5 A1, NSMBU 11-1 A1, NSMBU 11-3 A1, NSMBU 11-5 A2, NSMBU 11-7 A1, NSMBU 11-7 A2, NSMBU 11-7 A3, NSMBU 11-8 A2, NSMBU 14-2 A1, NSMBU 2-1 A1, NSMBU 2-14 A1, NSMBU 2-23 A1, NSMBU 2-3 A1, NSMBU 2-3 A2, NSMBU 2-5 A1, NSMBU 2-6 A1, NSMBU 3-1 A1, NSMBU 3-2 A2, NSMBU 3-20 A1, NSMBU 3-21 A2, NSMBU 3-23 A1, NSMBU 3-3 A1, NSMBU 3-3 A2, NSMBU 3-32 A1, NSMBU 3-33 A1, NSMBU 3-34 A1, NSMBU 3-4 A1, NSMBU 3-5 A2, NSMBU 3-55 A1, NSMBU 4-1 A1, NSMBU 4-16 A1, NSMBU 4-2 A1, NSMBU 4-21 A1, NSMBU 4-23 A1, NSMBU 4-3 A1, NSMBU 4-4 A1, NSMBU 4-5 A2, NSMBU 5-17 A1, NSMBU 5-20 A1, NSMBU 5-20 A2, NSMBU 5-21 A1, NSMBU 5-23 A1, NSMBU 5-3 A1, NSMBU 5-37 A1, NSMBU 5-4 A1, NSMBU 5-5 A1, NSMBU 5-5 A2, NSMBU 5-5 A3, NSMBU 5-6 A1, NSMBU 5-7 A1, NSMBU 6-1 A1, NSMBU 6-2 A1, NSMBU 6-21 A1, NSMBU 6-23 A1, NSMBU 6-23 A3, NSMBU 6-3 A1, NSMBU 6-4 A1, NSMBU 6-6 A1, NSMBU 6-6 A2, NSMBU 6-7 A2, NSMBU 7-1 A1, NSMBU 7-1 A2, NSMBU 7-2 A1, NSMBU 7-20 A2, NSMBU 7-20 A4, NSMBU 7-21 A1, NSMBU 7-21 A2, NSMBU 7-23 A1, NSMBU 7-3 A1, NSMBU 7-37 A1, NSMBU 7-5 A1, NSMBU 7-6 A1, NSMBU 8-1 A1, NSMBU 8-2 A1, NSMBU 8-4 A1, NSMBU 9-1 A1, NSMBU 9-4 A2, NSMBU 9-5 A1, NSMBU 9-6 A1, NSMBU 9-6 A2, NSMBU 9-8 A1&lt;br&gt;&lt;br&gt;Used as 1 in NSLU 1-1 A1, NSLU 2-1 A1, NSLU 5-23 A1, NSLU 7-37 A1, NSMBU 2-2 A2, NSMBU 2-23 A1, NSMBU 5-23 A1, NSMBU 6-7 A2, NSMBU 9-3 A2" />
-        <list title="Item" nybble="20" comment="Double-check this, please!">
+        <list title="Contains" nybble="20" comment="Double-check this, please!">
             <entry value="0">Acorn mushroom</entry>
             <entry value="1">1 coin</entry>
             <entry value="2">Fire flower</entry>
@@ -1108,7 +1108,7 @@ Please verify that your edits are syntactically correct before committing here! 
         <value title="Unknown Value 8" nybble="8" comment="Used as 0 in NSMBU 9-7 A1&lt;br&gt;&lt;br&gt;Used as 1 in NSMBU 9-7 A1" />
         <value title="Unknown Value 11" nybble="11" comment="Used as 0 in NSMBU 9-7 A1&lt;br&gt;&lt;br&gt;Used as 1 in NSMBU 9-7 A1" />
         <value title="Unknown Value 20" nybble="20" comment="Used as 2 in NSMBU 9-7 A1&lt;br&gt;&lt;br&gt;Used as 14 in NSMBU 9-7 A1" />
-        <list title="Item" nybble="20" comment="Double-check this, please!">
+        <list title="Contains" nybble="20" comment="Double-check this, please!">
             <entry value="0">UNUSED</entry>
             <entry value="1">UNUSED</entry>
             <entry value="2">Fire flower</entry>
@@ -1477,7 +1477,7 @@ Please verify that your edits are syntactically correct before committing here! 
     </sprite>
     <sprite id="194" name="Fire Snake" notes="Used in NSLU 6-4 A1, NSMBU 2-3 A2"/>
     <sprite id="195" name="Roulette Block" notes="Used in NSLU 5-6 A1, NSMBU 11-5 A2, NSMBU 2-21 A1, NSMBU 2-5 A1, NSMBU 2-6 A1, NSMBU 4-20 A1, NSMBU 4-20 A3, NSMBU 5-6 A1, NSMBU 5-7 A1, NSMBU 6-2 A1, NSMBU 6-4 A1, NSMBU 6-5 A1, NSMBU 7-3 A1, NSMBU 8-3 A1">
-        <list title="Block Contains" nybble="20" comment="The block will always hold a star, a 1-Up, a super mushroom and the item specified here." >
+        <list title="Contains" nybble="20" comment="The block will always hold a star, a 1-Up, a super mushroom and the item specified here." >
             <entry value="0">Fire flower</entry>
             <entry value="1">UNKNOWN</entry>
             <entry value="2">Ice flower</entry>
@@ -1513,9 +1513,9 @@ Please verify that your edits are syntactically correct before committing here! 
         <checkbox title="Thick" nybble="11" comment="Makes the platform 2 blocks thick, instead of one. Could also affect the color..." />
         <value title="Length" nybble="18" comment="If value is odd, Value + (Value-1). Else, value*2. Sprite is positioned in the center of the platform." />
     </sprite>
-    <sprite id="201" name="UNUSED SPRITE [Unused]" />
-    <sprite id="202" name="Propeller Block [Unused]" />
-    <sprite id="203" name="UNUSED SPRITE [Unused]" />
+    <sprite id="201" name="UNUSED SPRITE [Unused]" notes="&quot;火の粉発生君&quot;" />
+    <sprite id="202" name="Propeller Block [Unused]" notes="&quot;プロペラブロック&quot;" />
+    <sprite id="203" name="UNUSED SPRITE [Unused]" notes="&quot;氷ブロック(持てる)&quot;" />
     <sprite id="204" name="Fuzzy">
         <value title="Unknown Value 3" nybble="3" comment="Used as 0 in NSLU 6-1 A1, NSLU 7-1 A1, NSLU 7-32 A1, NSLU 7-33 A1, NSLU 7-34 A1, NSLU 7-55 A1, NSLU 9-1 A1, NSLU 9-7 A1, NSMBU 13-7 A1, NSMBU 16-3 A1, NSMBU 6-1 A1, NSMBU 7-2 A1, NSMBU 7-32 A1, NSMBU 7-33 A1, NSMBU 7-34 A1, NSMBU 7-5 A1, NSMBU 7-55 A1, NSMBU 9-1 A1&lt;br&gt;&lt;br&gt;Used as 1 in NSMBU 9-1 A1" />
         <value title="Unknown Value 4" nybble="4" comment="Used as 0 in NSLU 6-1 A1, NSLU 7-1 A1, NSLU 7-32 A1, NSLU 7-33 A1, NSLU 7-34 A1, NSLU 7-55 A1, NSLU 9-1 A1, NSLU 9-7 A1, NSMBU 13-7 A1, NSMBU 16-3 A1, NSMBU 6-1 A1, NSMBU 7-2 A1, NSMBU 7-32 A1, NSMBU 7-33 A1, NSMBU 7-34 A1, NSMBU 7-5 A1, NSMBU 7-55 A1, NSMBU 9-1 A1&lt;br&gt;&lt;br&gt;Used as 2 in NSMBU 9-1 A1" />
@@ -1527,20 +1527,20 @@ Please verify that your edits are syntactically correct before committing here! 
         <value title="Unknown Value 12" nybble="12" comment="Used as 0 in NSLU 7-32 A1, NSLU 7-33 A1, NSLU 7-34 A1, NSLU 7-55 A1, NSLU 9-7 A1, NSMBU 16-3 A1, NSMBU 6-1 A1, NSMBU 7-2 A1, NSMBU 7-32 A1, NSMBU 7-33 A1, NSMBU 7-34 A1, NSMBU 7-5 A1, NSMBU 7-55 A1, NSMBU 9-1 A1&lt;br&gt;&lt;br&gt;Used as 1 in NSLU 6-1 A1, NSLU 7-1 A1, NSLU 7-32 A1, NSLU 7-33 A1, NSLU 7-34 A1, NSLU 7-55 A1, NSLU 9-1 A1, NSLU 9-7 A1, NSMBU 13-7 A1, NSMBU 16-3 A1, NSMBU 6-1 A1, NSMBU 7-2 A1, NSMBU 7-32 A1, NSMBU 7-33 A1, NSMBU 7-34 A1, NSMBU 7-55 A1, NSMBU 9-1 A1" />
         <value title="Unknown Value 13" nybble="13" comment="Used as 0 in NSLU 6-1 A1, NSLU 7-1 A1, NSLU 7-32 A1, NSLU 7-33 A1, NSLU 7-34 A1, NSLU 7-55 A1, NSLU 9-1 A1, NSLU 9-7 A1, NSMBU 13-7 A1, NSMBU 16-3 A1, NSMBU 6-1 A1, NSMBU 7-2 A1, NSMBU 7-32 A1, NSMBU 7-33 A1, NSMBU 7-34 A1, NSMBU 7-5 A1, NSMBU 7-55 A1, NSMBU 9-1 A1&lt;br&gt;&lt;br&gt;Used as 1 in NSMBU 6-1 A1" />
     </sprite>
-    <sprite id="205" name="Floating ? Block [Unused]"/>
+    <sprite id="205" name="Floating ? Block [Unused]" notes="&quot;アクター水面ハテナブロック&quot;" />
     <sprite id="206" name="Boom Boom (W1 - Flailing)" notes="The Acorn Plains version of Boom boom.">
     </sprite>
     <sprite id="207" name="Lava Geyser" notes="Used in NSMBU 8-1 A1">
     </sprite>
-    <sprite id="208" name="UNUSED SPRITE [Unused]" />
+    <sprite id="208" name="UNUSED SPRITE [Unused]" notes="&quot;アクターブロックスイッチ&quot;" />
     <sprite id="209" name="Brick Block Containing a P-Switch" notes="Used in NSLU 1-23 A1, NSLU 3-23 A1, NSLU 3-4 A1, NSLU 5-17 A1, NSMBU 3-3 A2, NSMBU 4-20 A2, NSMBU 4-20 A3, NSMBU 5-17 A1, NSMBU 5-2 A2, NSMBU 8-3 A1, NSMBU 9-9 A1">
         <value title="Unknown Value 4" nybble="4" comment="Used as 0 in NSLU 1-23 A1, NSLU 3-23 A1, NSMBU 3-3 A2, NSMBU 4-20 A2, NSMBU 4-20 A3, NSMBU 5-17 A1, NSMBU 5-2 A2, NSMBU 8-3 A1, NSMBU 9-9 A1&lt;br&gt;&lt;br&gt;Used as 2 in NSLU 5-17 A1&lt;br&gt;&lt;br&gt;Used as 15 in NSLU 3-4 A1" />
         <value title="Unknown Value 5" nybble="5" comment="Used as 0 in NSLU 1-23 A1, NSLU 3-4 A1, NSLU 5-17 A1, NSMBU 3-3 A2, NSMBU 4-20 A2, NSMBU 4-20 A3, NSMBU 5-17 A1, NSMBU 5-2 A2, NSMBU 8-3 A1, NSMBU 9-9 A1&lt;br&gt;&lt;br&gt;Used as 1 in NSLU 3-23 A1" />
         <value title="Unknown Value 10" nybble="10" comment="Used as 0 in NSLU 3-23 A1, NSLU 3-4 A1, NSLU 5-17 A1, NSMBU 3-3 A2, NSMBU 4-20 A2, NSMBU 4-20 A3, NSMBU 5-17 A1, NSMBU 5-2 A2, NSMBU 8-3 A1, NSMBU 9-9 A1&lt;br&gt;&lt;br&gt;Used as 1 in NSLU 1-23 A1" />
         <value title="Unknown Value 16" nybble="16" comment="Used as 0 in NSLU 3-23 A1, NSLU 3-4 A1, NSLU 5-17 A1, NSMBU 3-3 A2, NSMBU 4-20 A2, NSMBU 4-20 A3, NSMBU 5-17 A1, NSMBU 5-2 A2, NSMBU 8-3 A1, NSMBU 9-9 A1&lt;br&gt;&lt;br&gt;Used as 1 in NSLU 1-23 A1" />
     </sprite>
-    <sprite id="210" name="UNUSED SPRITE [Unused]" />
-    <sprite id="211" name="UNUSED SPRITE [Unused]" />
+    <sprite id="210" name="UNUSED SPRITE [Unused]" notes="&quot;キノコリフト&quot;" />
+    <sprite id="211" name="UNUSED SPRITE [Unused]" notes="&quot;回転半当たり床&quot;" />
     <sprite id="212" name="Autoscrolling Controller" notes="Used in NSLU 3-15 A1, NSLU 5-17 A1, NSLU 5-37 A1, NSLU 6-4 A1, NSLU 7-21 A1, NSLU 7-37 A1, NSLU 7-6 A1, NSLU 9-4 A2, NSLU 9-9 A1, NSMBU 1-1 A1, NSMBU 1-23 A1, NSMBU 1-3 A1, NSMBU 1-4 A1, NSMBU 11-8 A1, NSMBU 11-8 A2, NSMBU 2-1 A1, NSMBU 2-5 A1, NSMBU 3-15 A2, NSMBU 4-1 A1, NSMBU 4-16 A1, NSMBU 4-2 A1, NSMBU 4-20 A1, NSMBU 4-20 A3, NSMBU 4-23 A1, NSMBU 5-17 A1, NSMBU 5-23 A1, NSMBU 5-37 A1, NSMBU 5-4 A1, NSMBU 6-1 A1, NSMBU 7-37 A1, NSMBU 7-6 A1, NSMBU 8-1 A1, NSMBU 8-4 A1, NSMBU 9-4 A1, NSMBU 9-4 A2, NSMBU 9-7 A1">
         <value title="Unknown Value 2" nybble="1-2" comment="Used as 0 in NSLU 5-17 A1, NSLU 5-37 A1, NSLU 6-4 A1, NSLU 7-21 A1, NSLU 7-37 A1, NSLU 7-6 A1, NSLU 9-4 A2, NSLU 9-9 A1, NSMBU 1-1 A1, NSMBU 1-23 A1, NSMBU 1-3 A1, NSMBU 1-4 A1, NSMBU 11-8 A1, NSMBU 11-8 A2, NSMBU 2-1 A1, NSMBU 2-5 A1, NSMBU 3-15 A2, NSMBU 4-1 A1, NSMBU 4-16 A1, NSMBU 4-2 A1, NSMBU 4-20 A1, NSMBU 4-20 A3, NSMBU 4-23 A1, NSMBU 5-17 A1, NSMBU 5-23 A1, NSMBU 5-37 A1, NSMBU 5-4 A1, NSMBU 6-1 A1, NSMBU 7-37 A1, NSMBU 7-6 A1, NSMBU 8-1 A1, NSMBU 8-4 A1, NSMBU 9-4 A1, NSMBU 9-4 A2, NSMBU 9-7 A1&lt;br&gt;&lt;br&gt;Used as 10 in NSLU 3-15 A1" />
         <value title="Unknown Value 3" nybble="3-4" comment="Used as 0 in NSLU 6-4 A1, NSLU 7-6 A1&lt;br&gt;&lt;br&gt;Used as 1 in NSLU 3-15 A1, NSLU 5-17 A1, NSLU 5-37 A1, NSLU 7-37 A1, NSLU 9-4 A2, NSMBU 1-23 A1, NSMBU 1-3 A1, NSMBU 11-8 A1, NSMBU 11-8 A2, NSMBU 2-1 A1, NSMBU 2-5 A1, NSMBU 3-15 A2, NSMBU 4-16 A1, NSMBU 4-20 A1, NSMBU 4-20 A3, NSMBU 4-23 A1, NSMBU 5-17 A1, NSMBU 5-23 A1, NSMBU 5-37 A1, NSMBU 6-1 A1, NSMBU 7-37 A1, NSMBU 7-6 A1, NSMBU 8-1 A1, NSMBU 8-4 A1, NSMBU 9-7 A1&lt;br&gt;&lt;br&gt;Used as 2 in NSMBU 7-6 A1&lt;br&gt;&lt;br&gt;Used as 3 in NSLU 7-21 A1&lt;br&gt;&lt;br&gt;Used as 4 in NSMBU 4-2 A1&lt;br&gt;&lt;br&gt;Used as 8 in NSMBU 5-4 A1&lt;br&gt;&lt;br&gt;Used as 10 in NSMBU 1-1 A1, NSMBU 1-4 A1, NSMBU 4-1 A1, NSMBU 9-4 A1, NSMBU 9-4 A2&lt;br&gt;&lt;br&gt;Used as 15 in NSLU 9-9 A1" />
@@ -1581,7 +1581,7 @@ Please verify that your edits are syntactically correct before committing here! 
             <entry value="5">World 6 - Rock-Candy Mines</entry>
         </list>
     </sprite>
-    <sprite id="217" name="UNUSED SPRITE [Unused]" />
+    <sprite id="217" name="UNUSED SPRITE [Unused]" notes="&quot;親子オブジェ・子・砦用&quot;" />
     <sprite id="218" name="Boo" notes="Boos are a type of white spherical ghost with menacing and constantly open mouths. They are known for their large tongues and small &quot;arms&quot; of some sort. However, the most distinctive characteristic of the Boos is their shy personality, where they cover their faces when someone looks them directly at the face. They will uncover their faces once the subject turns around.">
         <value title="Unknown Value 10" nybble="10" comment="Used as 0 in NSLU 4-20 A1, NSLU 5-32 A1, NSLU 5-33 A1, NSLU 5-34 A1, NSLU 5-55 A1, NSLU 5-56 A1, NSLU 7-20 A2, NSMBU 3-20 A1, NSMBU 3-20 A2, NSMBU 4-20 A1, NSMBU 4-20 A2, NSMBU 4-20 A3, NSMBU 5-20 A1, NSMBU 5-20 A2, NSMBU 5-32 A1, NSMBU 5-33 A1, NSMBU 5-34 A1, NSMBU 5-4 A1, NSMBU 5-55 A1, NSMBU 5-56 A1, NSMBU 7-20 A1, NSMBU 7-20 A3&lt;br&gt;&lt;br&gt;Used as 1 in NSMBU 5-20 A3" />
         <checkbox title="Starts facing right" nybble="11" comment="If this is checked, the boo will face to the right at first." />
@@ -1590,7 +1590,7 @@ Please verify that your edits are syntactically correct before committing here! 
     <sprite id="219" name="Big Boo" notes="Also called Atomic Boos or Mega Boos, are a sub-species of Boo. Usually, they resemble and behave similarly to normal Boos, except that they are larger.">
         <value title="Unknown Value 10" nybble="10" comment="Used as 0 in NSLU 4-20 A1, NSMBU 4-20 A1, NSMBU 4-20 A2, NSMBU 7-20 A1, NSMBU 7-20 A2&lt;br&gt;&lt;br&gt;Used as 1 in NSMBU 5-20 A3" />
     </sprite>
-    <sprite id="220" name="Boo Circle (child) (?) [Unused]" />
+    <sprite id="220" name="Boo Circle (child) (?) [Unused]" notes="&quot;回転拡縮テレサ（子）&quot;" />
     <sprite id="221" name="Boo Circle" notes="Used in NSLU 3-20 A1, NSLU 3-20 A2, NSLU 9-5 A1, NSMBU 11-6 A2, NSMBU 12-1 A1, NSMBU 13-6 A1, NSMBU 3-20 A1, NSMBU 4-20 A1, NSMBU 4-20 A3, NSMBU 5-4 A1, NSMBU 5-5 A1, NSMBU 5-5 A2, NSMBU 5-5 A3, NSMBU 7-20 A2, NSMBU 9-5 A1">
         <value title="Unknown Value 5" nybble="5" comment="Used as 0 in NSLU 3-20 A1, NSLU 3-20 A2, NSLU 9-5 A1, NSMBU 12-1 A1, NSMBU 5-4 A1, NSMBU 7-20 A2&lt;br&gt;&lt;br&gt;Used as 1 in NSLU 3-20 A1, NSMBU 11-6 A2, NSMBU 13-6 A1, NSMBU 3-20 A1, NSMBU 4-20 A1, NSMBU 4-20 A3, NSMBU 5-4 A1, NSMBU 5-5 A1, NSMBU 5-5 A2, NSMBU 5-5 A3, NSMBU 7-20 A2, NSMBU 9-5 A1" />
         <value title="Outer radius" nybble="6" comment="In blocks." />
@@ -1618,11 +1618,11 @@ Please verify that your edits are syntactically correct before committing here! 
     </sprite>
     <sprite id="223" name="Boom Boom (W2 - flailing, spinning and jumping)" notes="The Layer Cake Desert version of Boom boom.">
     </sprite>
-    <sprite id="224" name="Balloon Baby Yoshi Spawner [Unused]" notes="Name translates to Chibi Yoshi (balloon). Functions great." />
+    <sprite id="224" name="Balloon Baby Yoshi Spawner [Unused]" notes="&quot;チビヨッシー(風船)&quot;&br;Name translates to Chibi Yoshi (balloon). Functions great." />
     <sprite id="225" name="UNKNOWN SPRITE" notes="Used in NSLU 6-21 A2, NSMBU 6-21 A2">
     </sprite>
-    <sprite id="226" name="UNUSED SPRITE [Unused]" />
-    <sprite id="227" name="UNUSED SPRITE [Unused]" />
+    <sprite id="226" name="UNUSED SPRITE [Unused]" notes="&quot;氷リフト(湧き出し)&quot;" />
+    <sprite id="227" name="UNUSED SPRITE [Unused]" notes="&quot;氷リフト(湧き出し・浮く)&quot;" />
     <sprite id="228" name="Movement-Controlled Scaffold Platform" notes="Used in NSLU 6-3 A1, NSMBU 6-3 A1">
         <value title="Unknown Value 17" nybble="17" comment="Used as 0 in NSMBU 6-3 A1&lt;br&gt;&lt;br&gt;Used as 1 in NSLU 6-3 A1, NSMBU 6-3 A1" />
         <value title="Unknown Value 21" nybble="21" comment="Used as 0 in NSLU 6-3 A1, NSMBU 6-3 A1&lt;br&gt;&lt;br&gt;Used as 1 in NSLU 6-3 A1, NSMBU 6-3 A1" />
@@ -1649,9 +1649,9 @@ Please verify that your edits are syntactically correct before committing here! 
         <value title="Unknown Value 21" nybble="21" comment="Used as 0 in NSLU 6-4 A1, NSMBU 6-4 A1&lt;br&gt;&lt;br&gt;Used as 1 in NSLU 6-4 A1" />
         <value title="Movement ID?" nybble="22" comment="Used as 0 in NSLU 6-4 A1, NSMBU 6-4 A1&lt;br&gt;&lt;br&gt;Used as 1 in NSLU 6-4 A1&lt;br&gt;&lt;br&gt;Used as 2 in NSLU 6-4 A1, NSMBU 6-4 A1&lt;br&gt;&lt;br&gt;Used as 3 in NSLU 6-4 A1, NSMBU 6-4 A1&lt;br&gt;&lt;br&gt;Used as 4 in NSLU 6-4 A1, NSMBU 6-4 A1&lt;br&gt;&lt;br&gt;Used as 5 in NSLU 6-4 A1, NSMBU 6-4 A1&lt;br&gt;&lt;br&gt;Used as 6 in NSLU 6-4 A1&lt;br&gt;&lt;br&gt;Used as 7 in NSLU 6-4 A1, NSMBU 6-4 A1&lt;br&gt;&lt;br&gt;Used as 8 in NSMBU 6-4 A1&lt;br&gt;&lt;br&gt;Used as 9 in NSMBU 6-4 A1&lt;br&gt;&lt;br&gt;Used as 10 in NSLU 6-4 A1, NSMBU 6-4 A1&lt;br&gt;&lt;br&gt;Used as 11 in NSMBU 6-4 A1&lt;br&gt;&lt;br&gt;Used as 12 in NSMBU 6-4 A1&lt;br&gt;&lt;br&gt;Used as 13 in NSLU 6-4 A1&lt;br&gt;&lt;br&gt;Used as 14 in NSLU 6-4 A1&lt;br&gt;&lt;br&gt;Used as 15 in NSLU 6-4 A1" />
     </sprite>
-    <sprite id="233" name="Line Controlled ? Block [Unused]" notes="Name translates to Actor group lines corresponding brick block. Functions great.">
-	        <value title="Movement Line ID" nybble="6" comment="The Line ID the ? block follows." />
-			<list title="Item" nybble="20" comment="The item in the ? block.">
+    <sprite id="233" name="Line Controlled ? Block [Unused]" notes="&quot;アクターグループ線対応ハテナブロック&quot;&br;Name translates to &quot;Actor group lines corresponding brick block.&quot; Functions great.">
+	    <value title="Movement Line ID" nybble="6" comment="The Line ID the ? block follows." />
+		<list title="Contains" nybble="20" comment="The item in the ? block.">
             <entry value="0">Nothing</entry>
             <entry value="1">1 coin</entry>
             <entry value="2">Fire flower</entry>
@@ -1670,9 +1670,9 @@ Please verify that your edits are syntactically correct before committing here! 
             <entry value="15">Ice flower</entry>
         </list>
 	</sprite>
-    <sprite id="234" name="Line Controlled Brick Block [Unused]" notes="Name translates to Actor group lines corresponding brick block. Functions great.">
-	        <value title="Movement Line ID" nybble="6" comment="The Line ID the ? block follows." />
-			<list title="Item" nybble="20" comment="The item in the ? block.">
+    <sprite id="234" name="Line Controlled Brick Block [Unused]" notes="&quot;アクターグループ線対応レンガブロック&quot;&br;Name translates to &quot;Actor group lines corresponding brick block.&quot; Functions great.">
+	    <value title="Movement Line ID" nybble="6" comment="The Line ID the brick block follows." />
+		<list title="Contains" nybble="20" comment="The item in the brick block.">
             <entry value="0">Nothing</entry>
             <entry value="1">1 coin</entry>
             <entry value="2">Fire flower</entry>
@@ -1740,8 +1740,8 @@ Please verify that your edits are syntactically correct before committing here! 
         <value title="Unknown Value 6" nybble="6" comment="Used as 0 in NSMBU 8-3 A1&lt;br&gt;&lt;br&gt;Used as 1 in NSMBU 8-3 A1" />
         <value title="Unknown Value 18" nybble="18" comment="Used as 0 in NSMBU 8-3 A1&lt;br&gt;&lt;br&gt;Used as 1 in NSMBU 8-3 A1" />
     </sprite>
-    <sprite id="243" name="UNUSED SPRITE [Unused]" />
-    <sprite id="244" name="Koopaling Magic [Unused]" notes="Spawned by Larry and Ludwig. This is also the parent class of the fireballs spawned by other Koopalings." />
+    <sprite id="243" name="UNUSED SPRITE [Unused]" notes="&quot;チビヨッシー(泡)&quot;" />
+    <sprite id="244" name="Koopaling Magic [Unused]" notes="&quot;コクッパの炎&quot;&br;Spawned by Larry and Ludwig. This is also the parent class of the fireballs spawned by other Koopalings." />
     <sprite id="245" name="Castle Boss Controller" notes="With a nybble to change the world...">
         <list title="World" nybble="12" comment="Use this to set the world the boss is in." >
             <entry value="0">1</entry>
@@ -1763,7 +1763,7 @@ Please verify that your edits are syntactically correct before committing here! 
     </sprite>
     <sprite id="249" name="Wiggler" notes="Used in NSMBU 5-6 A1, NSMBU 5-7 A1">
     </sprite>
-    <sprite id="250" name="UNUSED SPRITE [Unused]" />
+    <sprite id="250" name="UNUSED SPRITE [Unused]" notes="&quot;回転ブロック（全アタリ）&quot;" />
     <sprite id="251" name="UNKNOWN SPRITE" notes="Used in NSMBU 7-5 A1">
         <value title="Unknown Value 9" nybble="9" comment="Used as 0 in NSMBU 7-5 A1&lt;br&gt;&lt;br&gt;Used as 1 in NSMBU 7-5 A1&lt;br&gt;&lt;br&gt;Used as 2 in NSMBU 7-5 A1" />
         <value title="Unknown Value 10" nybble="10" comment="Used as 0 in NSMBU 7-5 A1&lt;br&gt;&lt;br&gt;Used as 1 in NSMBU 7-5 A1" />
@@ -1790,8 +1790,8 @@ Please verify that your edits are syntactically correct before committing here! 
     </sprite>
     <sprite id="254" name="Lighting - Underwater Lamp" notes="Looks like a porthole with a metal stripe in the middle.">
     </sprite>
-    <sprite id="255" name="Micro Goomba" notes="A tiny little Goomba"></sprite>
-    <sprite id="256" name="UNUSED SPRITE [Unused]" />
+    <sprite id="255" name="Micro Goomba" notes="A tiny little Goomba!" />
+    <sprite id="256" name="UNUSED SPRITE [Unused]" notes="&quot;回転ブロック・キノコ&quot;" />
     <sprite id="257" name="Stretching Mushroom Platform" notes="Used in NSMBU 11-3 A1, NSMBU 2-5 A1, NSMBU 7-2 A1">
         <value title="Unknown Value 5" nybble="5" comment="Used as 0 in NSMBU 11-3 A1, NSMBU 2-5 A1&lt;br&gt;&lt;br&gt;Used as 1 in NSMBU 7-2 A1" />
         <value title="Unknown Value 9" nybble="9" comment="Used as 0 in NSMBU 2-5 A1, NSMBU 7-2 A1&lt;br&gt;&lt;br&gt;Used as 1 in NSMBU 11-3 A1" />
@@ -1855,8 +1855,8 @@ Please verify that your edits are syntactically correct before committing here! 
         <value title="Unknown Value 20" nybble="20" comment="Used as 0 in NSLU 5-20 A1, NSMBU 7-20 A2&lt;br&gt;&lt;br&gt;Used as 1 in NSLU 5-20 A1, NSMBU 7-20 A2&lt;br&gt;&lt;br&gt;Used as 7 in NSMBU 7-20 A2&lt;br&gt;&lt;br&gt;Used as 15 in NSMBU 5-20 A3" />
         <value title="Movement ID" nybble="22" comment="Should be linked to a path controller (sprite 100)..." />
     </sprite>
-    <sprite id="267" name="UNUSED SPRITE [Unused]" />
-    <sprite id="268" name="UNUSED SPRITE [Unused]" />
+    <sprite id="267" name="UNUSED SPRITE [Unused]" notes="&quot;大甲羅&quot;" />
+    <sprite id="268" name="UNUSED SPRITE [Unused]" notes="&quot;冷凍ブロック&quot;" />
     <sprite id="269" name="Round Cog" notes="Maybe needs better name? Used in NSLU 1-21 A1, NSMBU 1-21 A1">
         <value title="Unknown Value 5" nybble="5" comment="Used as 0 in NSLU 1-21 A1, NSMBU 1-21 A1&lt;br&gt;&lt;br&gt;Used as 1 in NSMBU 1-21 A1" />
         <value title="Unknown Value 10" nybble="10" comment="Used as 0 in NSLU 1-21 A1, NSMBU 1-21 A1&lt;br&gt;&lt;br&gt;Used as 1 in NSLU 1-21 A1, NSMBU 1-21 A1" />
@@ -1959,9 +1959,8 @@ Please verify that your edits are syntactically correct before committing here! 
             <entry value="3">Very big</entry>
         </list>
     </sprite>
-    <sprite id="289" name="UNKNOWN SPRITE" notes="Used in NSMBU 7-37 A1">
-    </sprite>
-    <sprite id="290" name="UNUSED SPRITE [Unused]" />
+    <sprite id="289" name="UNKNOWN SPRITE" notes="Used in NSMBU 7-37 A1" />
+    <sprite id="290" name="UNUSED SPRITE [Unused]" notes="&quot;バーナー(大)&quot;" />
     <sprite id="291" name="UNKNOWN SPRITE" notes="Used in NSLU 1-21 A1, NSMBU 3-23 A1, NSMBU 7-37 A1">
         <value title="Unknown Value 6" nybble="6" comment="Used as 1 in NSLU 1-21 A1, NSMBU 3-23 A1, NSMBU 7-37 A1&lt;br&gt;&lt;br&gt;Used as 2 in NSLU 1-21 A1, NSMBU 3-23 A1&lt;br&gt;&lt;br&gt;Used as 3 in NSLU 1-21 A1, NSMBU 3-23 A1&lt;br&gt;&lt;br&gt;Used as 4 in NSMBU 3-23 A1&lt;br&gt;&lt;br&gt;Used as 5 in NSMBU 3-23 A1&lt;br&gt;&lt;br&gt;Used as 6 in NSMBU 3-23 A1&lt;br&gt;&lt;br&gt;Used as 7 in NSMBU 3-23 A1&lt;br&gt;&lt;br&gt;Used as 14 in NSMBU 3-23 A1&lt;br&gt;&lt;br&gt;Used as 15 in NSMBU 3-23 A1" />
         <value title="Unknown Value 7" nybble="7" comment="Used as 6 in NSMBU 3-23 A1&lt;br&gt;&lt;br&gt;Used as 8 in NSLU 1-21 A1&lt;br&gt;&lt;br&gt;Used as 10 in NSLU 1-21 A1, NSMBU 3-23 A1&lt;br&gt;&lt;br&gt;Used as 12 in NSMBU 7-37 A1&lt;br&gt;&lt;br&gt;Used as 14 in NSMBU 3-23 A1" />
@@ -2244,7 +2243,7 @@ Please verify that your edits are syntactically correct before committing here! 
           <entry value="3">Big square (4x4)</entry>
         </list>
         <value title="Unknown Value 13" nybble="13" comment="Used as 0 in NSLU 4-1 A1, NSLU 5-37 A1, NSLU 7-37 A1, NSMBU 11-6 A1, NSMBU 11-6 A2, NSMBU 11-6 A3, NSMBU 5-37 A1, NSMBU 6-4 A2, NSMBU 7-20 A2, NSMBU 7-37 A1&lt;br&gt;&lt;br&gt;Used as 1 in NSLU 7-37 A1" />
-        <list nybble="20" title="Box Contains" comment="Used as 0 in NSLU 4-1 A1, NSLU 5-37 A1, NSLU 7-37 A1&lt;br&gt;&lt;br&gt;Used as 1 in NSLU 5-37 A1, NSMBU 5-37 A1&lt;br&gt;&lt;br&gt;Used as 2 in NSMBU 7-20 A2&lt;br&gt;&lt;br&gt;Used as 3 in NSMBU 7-37 A1&lt;br&gt;&lt;br&gt;Used as 10 in NSLU 5-37 A1, NSLU 7-37 A1, NSMBU 11-6 A1, NSMBU 11-6 A2, NSMBU 11-6 A3, NSMBU 5-37 A1, NSMBU 7-20 A2&lt;br&gt;&lt;br&gt;Used as 11 in NSLU 4-1 A1, NSMBU 6-4 A2, NSMBU 7-20 A2&lt;br&gt;&lt;br&gt;Used as 15 in NSLU 5-37 A1">
+        <list nybble="20" title="Contains" comment="Used as 0 in NSLU 4-1 A1, NSLU 5-37 A1, NSLU 7-37 A1&lt;br&gt;&lt;br&gt;Used as 1 in NSLU 5-37 A1, NSMBU 5-37 A1&lt;br&gt;&lt;br&gt;Used as 2 in NSMBU 7-20 A2&lt;br&gt;&lt;br&gt;Used as 3 in NSMBU 7-37 A1&lt;br&gt;&lt;br&gt;Used as 10 in NSLU 5-37 A1, NSLU 7-37 A1, NSMBU 11-6 A1, NSMBU 11-6 A2, NSMBU 11-6 A3, NSMBU 5-37 A1, NSMBU 7-20 A2&lt;br&gt;&lt;br&gt;Used as 11 in NSLU 4-1 A1, NSMBU 6-4 A2, NSMBU 7-20 A2&lt;br&gt;&lt;br&gt;Used as 15 in NSLU 5-37 A1">
           <entry value="0">Empty</entry>
           <entry value="1">Loose coin</entry>
           <entry value="2">UNKNOWN</entry>
@@ -2513,7 +2512,7 @@ Please verify that your edits are syntactically correct before committing here! 
         <value title="Unknown Value 6" nybble="6" comment="Used as 0 in NSLU 1-13 A1, NSMBU 1-2 A2, NSMBU 11-1 A1, NSMBU 5-3 A1, NSMBU 7-1 A1&lt;br&gt;&lt;br&gt;Used as 1 in NSLU 9-5 A1&lt;br&gt;&lt;br&gt;Used as 2 in NSMBU 7-21 A2" />
         <value title="Unknown Value 13" nybble="13" comment="Used as 0 in NSLU 1-13 A1, NSLU 9-5 A1, NSMBU 1-2 A2, NSMBU 11-1 A1, NSMBU 5-3 A1, NSMBU 7-1 A1&lt;br&gt;&lt;br&gt;Used as 1 in NSMBU 11-1 A1, NSMBU 7-1 A1, NSMBU 7-21 A2" />
         <value title="Unknown Value 15" nybble="15" comment="Used as 0 in NSLU 1-13 A1, NSMBU 1-2 A2, NSMBU 11-1 A1, NSMBU 5-3 A1, NSMBU 7-1 A1, NSMBU 7-21 A2&lt;br&gt;&lt;br&gt;Used as 1 in NSLU 9-5 A1" />
-        <list title="Item" nybble="20" comment="Used as 0 in NSMBU 11-1 A1, NSMBU 7-1 A1, NSMBU 7-21 A2&lt;br&gt;&lt;br&gt;Used as 1 in NSLU 1-13 A1, NSLU 9-5 A1, NSMBU 1-2 A2, NSMBU 11-1 A1&lt;br&gt;&lt;br&gt;Used as 13 in NSMBU 7-1 A1&lt;br&gt;&lt;br&gt;Used as 14 in NSLU 1-13 A1, NSLU 9-5 A1">
+        <list title="Contains" nybble="20" comment="Used as 0 in NSMBU 11-1 A1, NSMBU 7-1 A1, NSMBU 7-21 A2&lt;br&gt;&lt;br&gt;Used as 1 in NSLU 1-13 A1, NSLU 9-5 A1, NSMBU 1-2 A2, NSMBU 11-1 A1&lt;br&gt;&lt;br&gt;Used as 13 in NSMBU 7-1 A1&lt;br&gt;&lt;br&gt;Used as 14 in NSLU 1-13 A1, NSLU 9-5 A1">
             <entry value="0">UNKNOWN</entry>
             <entry value="1">UNKNOWN</entry>
             <entry value="2">Fire Flower</entry>
