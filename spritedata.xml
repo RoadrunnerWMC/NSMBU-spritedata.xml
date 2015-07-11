@@ -7,6 +7,7 @@ Standard Terminology:
 - Spawner with a physical presence: "Generator"
 - Spawner where things appear out of nowhere: "Spawner"
 - Question blocks: "? Block"
+- Contents values: "Contains"
 - Unused sprites:
     - Must have [Unused]
     - Must include the original Japanese actor name in the comment (will be added later)
@@ -76,7 +77,7 @@ Please verify that your edits are syntactically correct before committing here! 
         <value title="Unknown Value 9" nybble="9" comment="Used as 0 in NSLU 1-2 A2, NSLU 1-3 A1, NSLU 1-5 A1, NSLU 2-14 A1, NSLU 2-5 A1, NSLU 3-3 A1, NSLU 3-4 A1, NSLU 5-2 A1, NSLU 5-7 A1, NSLU 6-1 A1, NSLU 6-4 A1, NSLU 6-5 A1, NSLU 6-7 A2, NSLU 7-4 A1, NSLU 8-1 A1, NSLU 8-2 A1, NSMBU 1-1 A1, NSMBU 1-2 A2, NSMBU 1-3 A1, NSMBU 1-4 A1, NSMBU 1-5 A1, NSMBU 11-1 A1, NSMBU 11-2 A1, NSMBU 11-3 A1, NSMBU 11-5 A3, NSMBU 11-8 A1, NSMBU 11-8 A2, NSMBU 12-4 A1, NSMBU 13-4 A1, NSMBU 13-7 A1, NSMBU 14-1 A1, NSMBU 14-6 A1, NSMBU 16-1 A1, NSMBU 17-3 A1, NSMBU 2-1 A1, NSMBU 2-14 A1, NSMBU 2-2 A2, NSMBU 2-3 A2, NSMBU 2-4 A1, NSMBU 2-5 A1, NSMBU 2-6 A1, NSMBU 3-4 A1, NSMBU 4-1 A1, NSMBU 4-16 A1, NSMBU 4-4 A1, NSMBU 5-2 A1, NSMBU 5-6 A1, NSMBU 6-1 A1, NSMBU 6-2 A1, NSMBU 6-5 A1, NSMBU 6-7 A2, NSMBU 7-1 A2, NSMBU 7-2 A1, NSMBU 7-3 A1, NSMBU 7-4 A1, NSMBU 7-5 A1, NSMBU 8-1 A1, NSMBU 8-2 A1, NSMBU 8-3 A1, NSMBU 8-4 A1, NSMBU 9-2 A1, NSMBU 9-4 A2, NSMBU 9-6 A1, NSMBU 9-6 A2, NSMBU 9-7 A1, NSMBU 9-9 A1&lt;br&gt;&lt;br&gt;Used as 1 in NSMBU 2-1 A1" />
         <value title="Unknown Value 10" nybble="10" comment="Used as 0 in NSLU 1-2 A2, NSLU 1-3 A1, NSLU 1-5 A1, NSLU 2-14 A1, NSLU 3-3 A1, NSLU 3-4 A1, NSLU 5-2 A1, NSLU 5-7 A1, NSLU 6-1 A1, NSLU 6-4 A1, NSLU 6-5 A1, NSLU 6-7 A2, NSLU 7-4 A1, NSLU 8-1 A1, NSLU 8-2 A1, NSMBU 1-1 A1, NSMBU 1-2 A2, NSMBU 1-3 A1, NSMBU 1-4 A1, NSMBU 1-5 A1, NSMBU 11-1 A1, NSMBU 11-2 A1, NSMBU 11-3 A1, NSMBU 11-5 A3, NSMBU 11-8 A1, NSMBU 11-8 A2, NSMBU 12-4 A1, NSMBU 13-4 A1, NSMBU 13-7 A1, NSMBU 14-1 A1, NSMBU 14-6 A1, NSMBU 16-1 A1, NSMBU 17-3 A1, NSMBU 2-1 A1, NSMBU 2-14 A1, NSMBU 2-2 A2, NSMBU 2-3 A2, NSMBU 2-4 A1, NSMBU 2-5 A1, NSMBU 2-6 A1, NSMBU 3-4 A1, NSMBU 4-1 A1, NSMBU 4-16 A1, NSMBU 4-4 A1, NSMBU 5-2 A1, NSMBU 5-6 A1, NSMBU 6-1 A1, NSMBU 6-2 A1, NSMBU 6-5 A1, NSMBU 6-7 A2, NSMBU 7-1 A2, NSMBU 7-2 A1, NSMBU 7-3 A1, NSMBU 7-4 A1, NSMBU 7-5 A1, NSMBU 8-1 A1, NSMBU 8-2 A1, NSMBU 8-3 A1, NSMBU 8-4 A1, NSMBU 9-2 A1, NSMBU 9-4 A2, NSMBU 9-6 A1, NSMBU 9-6 A2, NSMBU 9-7 A1, NSMBU 9-9 A1&lt;br&gt;&lt;br&gt;Used as 2 in NSLU 2-5 A1, NSLU 8-2 A1, NSMBU 11-2 A1" />
         <value title="Unknown Value 11" nybble="11" comment="Used as 0 in NSLU 1-2 A2, NSLU 1-3 A1, NSLU 1-5 A1, NSLU 2-14 A1, NSLU 2-5 A1, NSLU 3-3 A1, NSLU 3-4 A1, NSLU 5-2 A1, NSLU 5-7 A1, NSLU 6-1 A1, NSLU 6-4 A1, NSLU 6-5 A1, NSLU 6-7 A2, NSLU 7-4 A1, NSLU 8-1 A1, NSLU 8-2 A1, NSMBU 1-1 A1, NSMBU 1-2 A2, NSMBU 1-3 A1, NSMBU 1-4 A1, NSMBU 1-5 A1, NSMBU 11-1 A1, NSMBU 11-2 A1, NSMBU 11-3 A1, NSMBU 11-5 A3, NSMBU 11-8 A1, NSMBU 11-8 A2, NSMBU 12-4 A1, NSMBU 13-4 A1, NSMBU 13-7 A1, NSMBU 14-1 A1, NSMBU 14-6 A1, NSMBU 16-1 A1, NSMBU 17-3 A1, NSMBU 2-1 A1, NSMBU 2-14 A1, NSMBU 2-2 A2, NSMBU 2-3 A2, NSMBU 2-4 A1, NSMBU 2-5 A1, NSMBU 2-6 A1, NSMBU 3-4 A1, NSMBU 4-1 A1, NSMBU 4-16 A1, NSMBU 4-4 A1, NSMBU 5-2 A1, NSMBU 5-6 A1, NSMBU 6-1 A1, NSMBU 6-2 A1, NSMBU 6-5 A1, NSMBU 6-7 A2, NSMBU 7-1 A2, NSMBU 7-2 A1, NSMBU 7-3 A1, NSMBU 7-4 A1, NSMBU 7-5 A1, NSMBU 8-1 A1, NSMBU 8-2 A1, NSMBU 8-3 A1, NSMBU 8-4 A1, NSMBU 9-2 A1, NSMBU 9-4 A2, NSMBU 9-6 A1, NSMBU 9-6 A2, NSMBU 9-7 A1, NSMBU 9-9 A1&lt;br&gt;&lt;br&gt;Used as 2 in NSMBU 2-1 A1" />
-        <list title="Colour" nybble="12" comment="Makes the shell red-coloured, and the Koopa Troopa won't walk of ledges anymore." >
+        <list title="Color" nybble="12" comment="Makes the shell red-colored, and the Koopa Troopa won't walk of ledges anymore." >
             <entry value="0">Green</entry>
             <entry value="1">Red</entry>
         </list>
@@ -804,7 +805,7 @@ Please verify that your edits are syntactically correct before committing here! 
         <value title="Unknown Value 5" nybble="5" comment="Used as 0 in NSMBU 3-1 A1, NSMBU 3-3 A1, NSMBU 6-2 A1&lt;br&gt;&lt;br&gt;Used as 8 in NSLU 1-13 A1, NSLU 1-13 A2, NSMBU 3-2 A2, NSMBU 9-3 A2" />
         <value title="Swimming distance" nybble="8" comment="Value+2" />
         <value title="Unknown Value 9" nybble="9" comment="Used as 0 in NSLU 1-13 A1, NSLU 1-13 A2, NSMBU 3-1 A1, NSMBU 3-3 A1, NSMBU 6-2 A1, NSMBU 9-3 A2&lt;br&gt;&lt;br&gt;Used as 2 in NSMBU 3-2 A2" />
-        <value title="Mode/colour?" nybble="12" comment="Used as 0 in NSLU 1-13 A1, NSLU 1-13 A2, NSMBU 3-2 A2, NSMBU 9-3 A2&lt;br&gt;&lt;br&gt;Used as 3 in NSMBU 3-1 A1, NSMBU 3-3 A1, NSMBU 6-2 A1" />
+        <value title="Mode/color?" nybble="12" comment="Used as 0 in NSLU 1-13 A1, NSLU 1-13 A2, NSMBU 3-2 A2, NSMBU 9-3 A2&lt;br&gt;&lt;br&gt;Used as 3 in NSMBU 3-1 A1, NSMBU 3-3 A1, NSMBU 6-2 A1" />
     </sprite>
     <sprite id="102" name="UNUSED SPRITE [Unused]" notes="Name translates to 'Environmental phenomena kun'. Possibly deletes itself and does nothing."/>
     <sprite id="103" name="Direction-Changing Bullet Bill Launcher" notes="Used in NSLU 3-23 A1, NSMBU 17-4 A1, NSMBU 7-3 A1">
@@ -1003,7 +1004,7 @@ Please verify that your edits are syntactically correct before committing here! 
             <entry value="1">Painted</entry>
             <entry value="2">Big</entry>
         </list>
-        <list title="Colour" nybble="11" comment="Set the colour of your pipe! Value 3 is blue if the type is painted (or is it related to &quot;height-related&quot;?)" >
+        <list title="Color" nybble="11" comment="Set the color of your pipe! Value 3 is blue if the type is painted (or is it related to &quot;height-related&quot;?)" >
             <entry value="0">Green</entry>
             <entry value="1">Red</entry>
             <entry value="2">Yellow</entry>
@@ -1023,7 +1024,7 @@ Please verify that your edits are syntactically correct before committing here! 
             <entry value="1">Painted</entry>
             <entry value="2">Big</entry>
         </list>
-        <list title="Colour" nybble="11" comment="Set the colour of your pipe! Value 3 is blue if the type is painted (or is it related to &quot;height-related&quot;?)">
+        <list title="Color" nybble="11" comment="Set the color of your pipe! Value 3 is blue if the type is painted (or is it related to &quot;height-related&quot;?)">
             <entry value="0">Green</entry>
             <entry value="1">Red</entry>
             <entry value="2">Yellow</entry>
@@ -1043,7 +1044,7 @@ Please verify that your edits are syntactically correct before committing here! 
             <entry value="1">Painted</entry>
             <entry value="2">Big</entry>
         </list>
-        <list title="Colour" nybble="11" comment="Set the colour of your pipe! Value 3 is blue if the type is painted (or is it related to &quot;length-related&quot;?)">
+        <list title="Color" nybble="11" comment="Set the color of your pipe! Value 3 is blue if the type is painted (or is it related to &quot;length-related&quot;?)">
             <entry value="0">Green</entry>
             <entry value="1">Red</entry>
             <entry value="2">Yellow</entry>
@@ -1063,7 +1064,7 @@ Please verify that your edits are syntactically correct before committing here! 
             <entry value="1">Painted</entry>
             <entry value="2">Big</entry>
         </list>
-        <list title="Colour" nybble="11" comment="Set the colour of your pipe! Value 3 is blue if the type is painted (or is it related to &quot;length-related&quot;?)">
+        <list title="Color" nybble="11" comment="Set the color of your pipe! Value 3 is blue if the type is painted (or is it related to &quot;length-related&quot;?)">
             <entry value="0">Green</entry>
             <entry value="1">Red</entry>
             <entry value="2">Yellow</entry>
@@ -1087,7 +1088,7 @@ Please verify that your edits are syntactically correct before committing here! 
         <value title="Unknown Value 5" nybble="5" comment="Used as 0 in NSLU 1-13 A1, NSLU 1-2 A2, NSLU 2-14 A1, NSLU 5-4 A1, NSLU 7-21 A1, NSLU 7-4 A1, NSLU 9-3 A2, NSMBU 1-1 A1, NSMBU 1-13 A2, NSMBU 1-2 A1, NSMBU 1-2 A2, NSMBU 11-1 A1, NSMBU 11-4 A1, NSMBU 3-15 A2, NSMBU 3-2 A2, NSMBU 3-21 A2, NSMBU 5-4 A1, NSMBU 6-5 A1&lt;br&gt;&lt;br&gt;Used as 1 in NSLU 1-13 A2, NSLU 9-3 A2, NSMBU 1-13 A2" />
         <value title="Unknown Value 6" nybble="6" comment="Used as 0 in NSLU 1-2 A2, NSLU 5-4 A1, NSLU 7-21 A1, NSMBU 1-1 A1, NSMBU 11-1 A1, NSMBU 5-4 A1&lt;br&gt;&lt;br&gt;Used as 2 in NSLU 1-13 A1, NSLU 1-13 A2, NSLU 2-14 A1, NSLU 7-4 A1, NSLU 9-3 A2, NSMBU 1-13 A2, NSMBU 1-2 A1, NSMBU 1-2 A2, NSMBU 11-4 A1, NSMBU 3-15 A2, NSMBU 3-2 A2, NSMBU 3-21 A2, NSMBU 6-5 A1&lt;br&gt;&lt;br&gt;Used as 3 in NSMBU 11-4 A1, NSMBU 3-2 A2&lt;br&gt;&lt;br&gt;Used as 4 in NSMBU 1-2 A2&lt;br&gt;&lt;br&gt;Used as 6 in NSMBU 1-2 A2" />
         <value title="Unknown Value 7" nybble="7" comment="Used as 0 in NSLU 5-4 A1, NSMBU 1-13 A2, NSMBU 1-2 A2, NSMBU 5-4 A1&lt;br&gt;&lt;br&gt;Used as 1 in NSLU 1-13 A2, NSLU 2-14 A1, NSLU 5-4 A1, NSMBU 1-13 A2, NSMBU 1-2 A2&lt;br&gt;&lt;br&gt;Used as 2 in NSLU 1-13 A1, NSLU 1-13 A2, NSLU 1-2 A2, NSLU 2-14 A1, NSLU 5-4 A1, NSLU 7-21 A1, NSLU 7-4 A1, NSLU 9-3 A2, NSMBU 1-1 A1, NSMBU 1-13 A2, NSMBU 1-2 A1, NSMBU 1-2 A2, NSMBU 11-1 A1, NSMBU 11-4 A1, NSMBU 3-15 A2, NSMBU 3-2 A2, NSMBU 3-21 A2, NSMBU 5-4 A1, NSMBU 6-5 A1&lt;br&gt;&lt;br&gt;Used as 3 in NSLU 1-13 A2, NSLU 1-2 A2, NSLU 5-4 A1, NSLU 9-3 A2, NSMBU 1-13 A2, NSMBU 1-2 A1, NSMBU 1-2 A2, NSMBU 11-1 A1, NSMBU 3-2 A2, NSMBU 5-4 A1" />
-        <list title="Colour" nybble="8" comment="Set the colour of your pipe!" >
+        <list title="Color" nybble="8" comment="Set the color of your pipe!" >
             <entry value="0">Green</entry>
             <entry value="1">Red</entry>
             <entry value="2">Yellow</entry>
@@ -1426,7 +1427,7 @@ Please verify that your edits are syntactically correct before committing here! 
         <value title="Unknown Value 6" nybble="6" comment="Used as 0 in NSLU 1-2 A2, NSLU 1-23 A1, NSLU 2-3 A2, NSLU 3-5 A2, NSMBU 1-23 A1, NSMBU 1-5 A1, NSMBU 11-6 A1, NSMBU 11-6 A3, NSMBU 3-2 A2, NSMBU 5-20 A2, NSMBU 5-20 A3, NSMBU 9-5 A1&lt;br&gt;&lt;br&gt;Used as 8 in NSLU 6-2 A2" />
         <value title="Unknown Value 13" nybble="13" comment="Used as 0 in NSLU 1-2 A2, NSLU 1-23 A1, NSLU 2-3 A2, NSLU 3-5 A2, NSLU 6-2 A2, NSMBU 1-5 A1, NSMBU 11-6 A1, NSMBU 11-6 A3, NSMBU 3-2 A2, NSMBU 5-20 A2, NSMBU 5-20 A3&lt;br&gt;&lt;br&gt;Used as 1 in NSMBU 1-23 A1, NSMBU 9-5 A1" />
         <value title="Unknown Value 17" nybble="17" comment="Used as 0 in NSLU 1-2 A2, NSLU 1-23 A1, NSLU 2-3 A2, NSLU 3-5 A2, NSLU 6-2 A2, NSMBU 1-23 A1, NSMBU 1-5 A1, NSMBU 11-6 A1, NSMBU 11-6 A3, NSMBU 3-2 A2, NSMBU 5-20 A2, NSMBU 5-20 A3, NSMBU 9-5 A1&lt;br&gt;&lt;br&gt;Used as 1 in NSMBU 1-5 A1" />
-        <list title="Contents?" nybble="20" comment="Used as 0 in NSMBU 1-23 A1, NSMBU 9-5 A1&lt;br&gt;&lt;br&gt;Used as 1 in NSLU 1-23 A1, NSLU 3-5 A2, NSLU 6-2 A2, NSMBU 11-6 A1, NSMBU 11-6 A3&lt;br&gt;&lt;br&gt;Used as 2 in NSLU 1-2 A2, NSLU 2-3 A2, NSLU 3-5 A2, NSMBU 1-5 A1, NSMBU 11-6 A1, NSMBU 11-6 A3, NSMBU 3-2 A2, NSMBU 5-20 A2&lt;br&gt;&lt;br&gt;Used as 7 in NSMBU 5-20 A3&lt;br&gt;&lt;br&gt;Used as 8 in NSLU 1-2 A2, NSLU 2-3 A2&lt;br&gt;&lt;br&gt;Used as 14 in NSLU 1-23 A1, NSLU 2-3 A2, NSMBU 1-5 A1&lt;br&gt;&lt;br&gt;Used as 15 in NSLU 6-2 A2" >
+        <list title="Contains" nybble="20" comment="Used as 0 in NSMBU 1-23 A1, NSMBU 9-5 A1&lt;br&gt;&lt;br&gt;Used as 1 in NSLU 1-23 A1, NSLU 3-5 A2, NSLU 6-2 A2, NSMBU 11-6 A1, NSMBU 11-6 A3&lt;br&gt;&lt;br&gt;Used as 2 in NSLU 1-2 A2, NSLU 2-3 A2, NSLU 3-5 A2, NSMBU 1-5 A1, NSMBU 11-6 A1, NSMBU 11-6 A3, NSMBU 3-2 A2, NSMBU 5-20 A2&lt;br&gt;&lt;br&gt;Used as 7 in NSMBU 5-20 A3&lt;br&gt;&lt;br&gt;Used as 8 in NSLU 1-2 A2, NSLU 2-3 A2&lt;br&gt;&lt;br&gt;Used as 14 in NSLU 1-23 A1, NSLU 2-3 A2, NSMBU 1-5 A1&lt;br&gt;&lt;br&gt;Used as 15 in NSLU 6-2 A2" >
             <entry value="0">Acorn mushroom</entry>
             <entry value="1">UNKNOWN</entry>
             <entry value="2">Fire flower</entry>
@@ -1504,13 +1505,13 @@ Please verify that your edits are syntactically correct before committing here! 
     </sprite>
     <sprite id="198" name="UNUSED SPRITE [Unused]" />
     <sprite id="199" name="Glow Block [Unused]" />
-    <sprite id="200" name="Mushroom Platform" notes="A nice platform, available in different colours.">
-        <list title="Colour" nybble="10" comment="Sets the colour of the mushroom platform." >
+    <sprite id="200" name="Mushroom Platform" notes="A nice platform, available in different colors.">
+        <list title="Color" nybble="10" comment="Sets the color of the mushroom platform." >
             <entry value="0">Yellow if thin, red if thick</entry>
             <entry value="1">Green if thin, blue if thick</entry>
         </list>
-        <checkbox title="Thick" nybble="11" comment="Makes the platform 2 blocks thick, instead of one. Could also affect the colour..." />
-        <value title="Length" nybble="18" comment="If value is odd, Value + (Value-1). Else, value*2. Sprite is positioned in the centre of the platform." />
+        <checkbox title="Thick" nybble="11" comment="Makes the platform 2 blocks thick, instead of one. Could also affect the color..." />
+        <value title="Length" nybble="18" comment="If value is odd, Value + (Value-1). Else, value*2. Sprite is positioned in the center of the platform." />
     </sprite>
     <sprite id="201" name="UNUSED SPRITE [Unused]" />
     <sprite id="202" name="Propeller Block [Unused]" />
@@ -1949,7 +1950,7 @@ Please verify that your edits are syntactically correct before committing here! 
     <sprite id="287" name="Wheel Platform" notes="Used in NSMBU 6-1 A1">
     </sprite>
     <sprite id="288" name="Bush" notes="Used in NSLU 1-3 A1, NSMBU 1-3 A1, NSMBU 3-3 A2, NSMBU 6-1 A1, NSMBU 7-2 A1">
-        <checkbox nybble="10" title="Yellowish Colour"/>
+        <checkbox nybble="10" title="Yellowish Color"/>
         <value title="Unknown Value 11" nybble="11" comment="Used as 0 in NSLU 1-3 A1, NSMBU 1-3 A1, NSMBU 3-3 A2, NSMBU 7-2 A1&lt;br&gt;&lt;br&gt;Used as 1 in NSMBU 6-1 A1" />
         <list title="Size" nybble="12" comment="Use this to determine the size of the bush." >
             <entry value="0">Small?</entry>
@@ -2022,7 +2023,7 @@ Please verify that your edits are syntactically correct before committing here! 
         <value title="Unknown Value 8" nybble="8" comment="Used as 0 in NSMBU 11-5 A2&lt;br&gt;&lt;br&gt;Used as 1 in NSMBU 11-2 A3, NSMBU 3-1 A2" />
         <value title="Unknown Value 9" nybble="9" comment="Used as 0 in NSMBU 11-2 A3, NSMBU 11-5 A2, NSMBU 3-1 A2&lt;br&gt;&lt;br&gt;Used as 1 in NSMBU 11-2 A3" />
         <value title="Unknown Value 11" nybble="11" comment="Used as 0 in NSMBU 11-2 A3, NSMBU 11-5 A2, NSMBU 3-1 A2&lt;br&gt;&lt;br&gt;Used as 1 in NSMBU 11-2 A3" />
-        <list title="Contents" nybble="12" comment="Used as 1 in NSMBU 11-2 A3&lt;br&gt;&lt;br&gt;Used as 2 in NSMBU 11-2 A3, NSMBU 11-5 A2&lt;br&gt;&lt;br&gt;Used as 3 in NSMBU 11-2 A3, NSMBU 11-5 A2, NSMBU 3-1 A2" >
+        <list title="Contains" nybble="12" comment="Used as 1 in NSMBU 11-2 A3&lt;br&gt;&lt;br&gt;Used as 2 in NSMBU 11-2 A3, NSMBU 11-5 A2&lt;br&gt;&lt;br&gt;Used as 3 in NSMBU 11-2 A3, NSMBU 11-5 A2, NSMBU 3-1 A2" >
             <entry value="0">Nothing [unused]</entry>
             <entry value="1">Star Coin</entry>
             <entry value="2">Coin</entry>
@@ -2086,7 +2087,7 @@ Please verify that your edits are syntactically correct before committing here! 
     <sprite id="314" name="UNUSED SPRITE [Unused]" />
     <sprite id="315" name="UNUSED SPRITE [Unused]" />
     <sprite id="316" name="Underground Crystal Block" notes="Used in NSLU 1-2 A2, NSMBU 1-2 A2">
-        <list title="Colour?" nybble="10" comment="Used as 0 in NSMBU 1-2 A2&lt;br&gt;&lt;br&gt;Used as 1 in NSMBU 1-2 A2&lt;br&gt;&lt;br&gt;Used as 2 in NSMBU 1-2 A2&lt;br&gt;&lt;br&gt;Used as 4 in NSLU 1-2 A2, NSMBU 1-2 A2&lt;br&gt;&lt;br&gt;Used as 6 in NSMBU 1-2 A2&lt;br&gt;&lt;br&gt;Used as 8 in NSLU 1-2 A2, NSMBU 1-2 A2&lt;br&gt;&lt;br&gt;Used as 9 in NSMBU 1-2 A2&lt;br&gt;&lt;br&gt;Used as 10 in NSLU 1-2 A2, NSMBU 1-2 A2" >
+        <list title="Color?" nybble="10" comment="Used as 0 in NSMBU 1-2 A2&lt;br&gt;&lt;br&gt;Used as 1 in NSMBU 1-2 A2&lt;br&gt;&lt;br&gt;Used as 2 in NSMBU 1-2 A2&lt;br&gt;&lt;br&gt;Used as 4 in NSLU 1-2 A2, NSMBU 1-2 A2&lt;br&gt;&lt;br&gt;Used as 6 in NSMBU 1-2 A2&lt;br&gt;&lt;br&gt;Used as 8 in NSLU 1-2 A2, NSMBU 1-2 A2&lt;br&gt;&lt;br&gt;Used as 9 in NSMBU 1-2 A2&lt;br&gt;&lt;br&gt;Used as 10 in NSLU 1-2 A2, NSMBU 1-2 A2" >
             <entry value="0">Pink/Purple</entry>
             <entry value="1">UNKNOWN</entry>
             <entry value="2">UNKNOWN</entry>
@@ -2420,7 +2421,7 @@ Please verify that your edits are syntactically correct before committing here! 
         <value title="Unknown Value 10" nybble="10" comment="Used as 1 in NSLU 3-23 A1, NSMBU 3-23 A1&lt;br&gt;&lt;br&gt;Used as 2 in NSMBU 3-23 A1" />
     </sprite>
     <sprite id="380" name="? Block Containing Baby Yoshi" notes="Only contains Baby Yoshis." >
-        <list title="Contents" nybble="12" comment="0 can be seen in the E3 2012 kiosk demo build and 0 and 1 can be seen in the E3 2012 trailer build.">
+        <list title="Contains" nybble="12" comment="0 can be seen in the E3 2012 kiosk demo build and 0 and 1 can be seen in the E3 2012 trailer build.">
             <entry value="0">Bubble baby yoshi [unused]</entry>
             <entry value="1">Balloon baby yoshi [unused]</entry>
             <entry value="2">Glow baby yoshi</entry>
@@ -2537,7 +2538,7 @@ Please verify that your edits are syntactically correct before committing here! 
         <value title="Unknown Value 4" nybble="4" comment="Used as 0 in NSLU 5-1 A1, NSLU 5-2 A1, NSLU 5-37 A1, NSLU 5-5 A2, NSLU 9-5 A1, NSLU 9-9 A1, NSMBU 1-2 A2, NSMBU 11-4 A1, NSMBU 2-1 A1, NSMBU 2-5 A1, NSMBU 4-16 A1, NSMBU 4-4 A1, NSMBU 5-2 A1, NSMBU 5-3 A1, NSMBU 6-4 A1, NSMBU 6-5 A1, NSMBU 7-1 A1, NSMBU 7-1 A2, NSMBU 7-1 A3, NSMBU 7-20 A2, NSMBU 8-2 A1, NSMBU 9-5 A1&lt;br&gt;&lt;br&gt;Used as 5 in NSMBU 1-1 A1, NSMBU 5-3 A1&lt;br&gt;&lt;br&gt;Used as 6 in NSMBU 5-3 A1" />
         <value title="Unknown Value 6" nybble="6" comment="Used as 0 in NSLU 5-1 A1, NSLU 5-2 A1, NSLU 5-37 A1, NSLU 5-5 A2, NSLU 9-9 A1, NSMBU 1-1 A1, NSMBU 1-2 A2, NSMBU 11-4 A1, NSMBU 2-1 A1, NSMBU 2-5 A1, NSMBU 4-16 A1, NSMBU 4-4 A1, NSMBU 5-3 A1, NSMBU 6-4 A1, NSMBU 6-5 A1, NSMBU 7-1 A1, NSMBU 7-1 A2, NSMBU 7-1 A3, NSMBU 7-20 A2, NSMBU 8-2 A1, NSMBU 9-5 A1&lt;br&gt;&lt;br&gt;Used as 1 in NSLU 9-5 A1&lt;br&gt;&lt;br&gt;Used as 2 in NSMBU 5-2 A1" />
         <value title="Unknown Value 15" nybble="15" comment="Used as 0 in NSLU 5-1 A1, NSLU 5-2 A1, NSLU 5-37 A1, NSLU 5-5 A2, NSLU 9-5 A1, NSMBU 1-1 A1, NSMBU 1-2 A2, NSMBU 11-4 A1, NSMBU 2-1 A1, NSMBU 2-5 A1, NSMBU 4-16 A1, NSMBU 4-4 A1, NSMBU 5-2 A1, NSMBU 5-3 A1, NSMBU 6-4 A1, NSMBU 6-5 A1, NSMBU 7-1 A1, NSMBU 7-1 A2, NSMBU 7-1 A3, NSMBU 7-20 A2, NSMBU 8-2 A1, NSMBU 9-5 A1&lt;br&gt;&lt;br&gt;Used as 1 in NSLU 9-5 A1, NSLU 9-9 A1" />
-        <list title="Contents" nybble="20" comment="Used as 10 in NSMBU 7-1 A1" >
+        <list title="Contains" nybble="20" comment="Used as 10 in NSMBU 7-1 A1" >
             <entry value="0">Nothing</entry>
             <entry value="1">Coin</entry>
             <entry value="2">UNUSED</entry>
@@ -2625,7 +2626,7 @@ Please verify that your edits are syntactically correct before committing here! 
     </sprite>
     <sprite id="422" name="Big Brick Block" notes="Used in NSLU 5-1 A1, NSLU 5-7 A2, NSMBU 11-8 A1, NSMBU 17-5 A1, NSMBU 17-6 A1, NSMBU 5-1 A1, NSMBU 5-2 A1, NSMBU 5-21 A1, NSMBU 5-3 A1">
         <value title="Unknown Value 14" nybble="14" comment="Used as 0 in NSLU 5-1 A1, NSLU 5-7 A2, NSMBU 11-8 A1, NSMBU 17-5 A1, NSMBU 17-6 A1, NSMBU 5-1 A1, NSMBU 5-2 A1, NSMBU 5-21 A1, NSMBU 5-3 A1&lt;br&gt;&lt;br&gt;Used as 1 in NSMBU 5-3 A1" />
-        <list title="Contents" nybble="20" comment="Value 10: Breaks when hit by shell from the sides. Used as 0 in NSLU 5-1 A1, NSMBU 17-5 A1, NSMBU 17-6 A1, NSMBU 5-1 A1, NSMBU 5-2 A1&lt;br&gt;&lt;br&gt;Used as 1 in NSLU 5-1 A1, NSLU 5-7 A2, NSMBU 17-5 A1, NSMBU 17-6 A1, NSMBU 5-1 A1, NSMBU 5-2 A1, NSMBU 5-21 A1, NSMBU 5-3 A1&lt;br&gt;&lt;br&gt;Used as 2 in NSMBU 5-3 A1&lt;br&gt;&lt;br&gt;Used as 10 in NSMBU 5-2 A1&lt;br&gt;&lt;br&gt;Used as 11 in NSLU 5-1 A1, NSMBU 11-8 A1&lt;br&gt;&lt;br&gt;Used as 12 in NSLU 5-1 A1&lt;br&gt;&lt;br&gt;Used as 14 in NSMBU 5-2 A1" >
+        <list title="Contains" nybble="20" comment="Value 10: Breaks when hit by shell from the sides. Used as 0 in NSLU 5-1 A1, NSMBU 17-5 A1, NSMBU 17-6 A1, NSMBU 5-1 A1, NSMBU 5-2 A1&lt;br&gt;&lt;br&gt;Used as 1 in NSLU 5-1 A1, NSLU 5-7 A2, NSMBU 17-5 A1, NSMBU 17-6 A1, NSMBU 5-1 A1, NSMBU 5-2 A1, NSMBU 5-21 A1, NSMBU 5-3 A1&lt;br&gt;&lt;br&gt;Used as 2 in NSMBU 5-3 A1&lt;br&gt;&lt;br&gt;Used as 10 in NSMBU 5-2 A1&lt;br&gt;&lt;br&gt;Used as 11 in NSLU 5-1 A1, NSMBU 11-8 A1&lt;br&gt;&lt;br&gt;Used as 12 in NSLU 5-1 A1&lt;br&gt;&lt;br&gt;Used as 14 in NSMBU 5-2 A1" >
             <entry value="0">Nothing</entry>
             <entry value="1">One coin</entry>
             <entry value="2">Fire flower</entry>
@@ -2664,7 +2665,7 @@ Please verify that your edits are syntactically correct before committing here! 
         <value title="Unknown Value 11" nybble="11" comment="Used as 0 in NSLU 3-15 A1, NSLU 5-2 A1, NSMBU 3-15 A2&lt;br&gt;&lt;br&gt;Used as 1 in NSLU 3-15 A1, NSLU 5-2 A1, NSMBU 3-15 A2" />
     </sprite>
     <sprite id="426" name="Balloon with Goomba/Coin" notes="Used in NSMBU 3-15 A2">
-        <list title="Balloon Colour" nybble="11" comment="Used as 0 in NSMBU 3-15 A2&lt;br&gt;&lt;br&gt;Used as 2 in NSMBU 3-15 A2&lt;br&gt;&lt;br&gt;Used as 3 in NSMBU 3-15 A2" >
+        <list title="Balloon Color" nybble="11" comment="Used as 0 in NSMBU 3-15 A2&lt;br&gt;&lt;br&gt;Used as 2 in NSMBU 3-15 A2&lt;br&gt;&lt;br&gt;Used as 3 in NSMBU 3-15 A2" >
             <entry value="0">UNKNOWN</entry>
             <entry value="1">UNUSED</entry>
             <entry value="2">UNKNOWN</entry>
@@ -2840,7 +2841,7 @@ Please verify that your edits are syntactically correct before committing here! 
     </sprite>
     <sprite id="475" name="Big ? Block" notes="Used in NSLU 1-13 A2, NSLU 5-1 A1, NSLU 5-17 A1, NSLU 5-21 A1, NSLU 5-3 A1, NSLU 5-7 A1, NSLU 9-6 A1, NSMBU 11-8 A1, NSMBU 17-5 A1, NSMBU 17-6 A1, NSMBU 5-1 A1, NSMBU 5-2 A1, NSMBU 5-21 A1">
         <value title="Unknown Value 13" nybble="13" comment="Used as 0 in NSLU 1-13 A2, NSLU 5-1 A1, NSLU 5-17 A1, NSLU 5-21 A1, NSLU 5-3 A1, NSLU 5-7 A1, NSLU 9-6 A1, NSMBU 11-8 A1, NSMBU 17-5 A1, NSMBU 17-6 A1, NSMBU 5-1 A1, NSMBU 5-2 A1&lt;br&gt;&lt;br&gt;Used as 1 in NSLU 5-7 A1, NSMBU 5-2 A1, NSMBU 5-21 A1" />
-        <list title="Contents" nybble="20" comment="Used as 0 in NSLU 5-7 A1, NSMBU 5-2 A1, NSMBU 5-21 A1&lt;br&gt;&lt;br&gt;Used as 1 in NSLU 5-7 A1, NSMBU 5-2 A1&lt;br&gt;&lt;br&gt;Used as 2 in               NSLU 5-1 A1, NSMBU 11-8 A1, NSMBU 17-5 A1, NSMBU 17-6 A1, NSMBU 5-1 A1&lt;br&gt;&lt;br&gt;Used as 7 in NSLU 1-13 A2&lt;br&gt;&lt;br&gt;Used as 11 in NSLU 5-17 A1&lt;br&gt;&lt;br&gt;Used as 14 in NSLU 5-1 A1, NSLU 5-21 A1, NSLU 5-3 A1, NSLU 5-7 A1, NSLU 9-6 A1&lt;br&gt;&lt;br&gt;Used as 15 in NSMBU 11-8 A1" >
+        <list title="Contains" nybble="20" comment="Used as 0 in NSLU 5-7 A1, NSMBU 5-2 A1, NSMBU 5-21 A1&lt;br&gt;&lt;br&gt;Used as 1 in NSLU 5-7 A1, NSMBU 5-2 A1&lt;br&gt;&lt;br&gt;Used as 2 in               NSLU 5-1 A1, NSMBU 11-8 A1, NSMBU 17-5 A1, NSMBU 17-6 A1, NSMBU 5-1 A1&lt;br&gt;&lt;br&gt;Used as 7 in NSLU 1-13 A2&lt;br&gt;&lt;br&gt;Used as 11 in NSLU 5-17 A1&lt;br&gt;&lt;br&gt;Used as 14 in NSLU 5-1 A1, NSLU 5-21 A1, NSLU 5-3 A1, NSLU 5-7 A1, NSLU 9-6 A1&lt;br&gt;&lt;br&gt;Used as 15 in NSMBU 11-8 A1" >
             <entry value="0">Acorn mushroom</entry>
             <entry value="1">Coin</entry>
             <entry value="2">Fire flower</entry>
@@ -2861,7 +2862,7 @@ Please verify that your edits are syntactically correct before committing here! 
     </sprite>
     <sprite id="476" name="Big Koopa Troopa" notes="Used in NSLU 5-1 A1, NSMBU 17-5 A1, NSMBU 17-6 A1, NSMBU 5-1 A1">
         <value title="Unknown Value 7" nybble="7" comment="Used as 0 in NSLU 5-1 A1, NSMBU 17-5 A1, NSMBU 17-6 A1, NSMBU 5-1 A1&lt;br&gt;&lt;br&gt;Used as 1 in NSMBU 17-6 A1, NSMBU 5-1 A1" />
-        <list title="Colour" nybble="12" comment="Makes the shell red-coloured, and the Koopa Troopa won't walk off ledges anymore." >
+        <list title="Color" nybble="12" comment="Makes the shell red-colored, and the Koopa Troopa won't walk off ledges anymore." >
             <entry value="0">Green</entry>
             <entry value="1">Red</entry>
         </list>
@@ -3023,7 +3024,7 @@ Please verify that your edits are syntactically correct before committing here! 
     <sprite id="511" name="Pipe - Down" notes="Used in NSLU 4-1 A1, NSLU 5-4 A1, NSMBU 1-4 A1, NSMBU 5-4 A1, NSMBU 7-23 A1">
         <checkbox title="Painted" nybble="8" comment="If this is checked, the pipe will be &quot;painted&quot;." />
         <value title="Unknown Value 10" nybble="10" comment="Used as 2 in NSLU 4-1 A1, NSMBU 7-23 A1&lt;br&gt;&lt;br&gt;Used as 4 in NSMBU 5-4 A1&lt;br&gt;&lt;br&gt;Used as 8 in NSMBU 1-4 A1&lt;br&gt;&lt;br&gt;Used as 9 in NSMBU 5-4 A1&lt;br&gt;&lt;br&gt;Used as 10 in NSLU 5-4 A1" />
-        <list title="Colour" nybble="11" comment="Value 3 is a wild guess, as it's unused in the retail game." >
+        <list title="Color" nybble="11" comment="Value 3 is a wild guess, as it's unused in the retail game." >
             <entry value="0">Green</entry>
             <entry value="1">Red</entry>
             <entry value="2">Yellow</entry>
@@ -3621,7 +3622,7 @@ Please verify that your edits are syntactically correct before committing here! 
         <value title="Unknown Value 22" nybble="22" comment="Used as 3 in NSLU 3-5 A2&lt;br&gt;&lt;br&gt;Used as 6 in NSLU 3-5 A2&lt;br&gt;&lt;br&gt;Used as 10 in NSLU 3-5 A2" />
     </sprite>
     <sprite id="710" name="UNKNOWN SPRITE" notes="Used in NSLU 6-6 A1"/>
-    <sprite id="711" name="NSLU metal block lift" notes="Used in NSLU 6-7 A1, NSLU 6-7 A2">
+    <sprite id="711" name="Metal Block Platform - NSLU" notes="Used in NSLU 6-7 A1, NSLU 6-7 A2">
         <value title="Unknown Value 16" nybble="16" comment="Used as 0 in NSLU 6-7 A1&lt;br&gt;&lt;br&gt;Used as 1 in NSLU 6-7 A2" />
         <value title="Unknown Value 18" nybble="18" comment="Used as 0 in NSLU 6-7 A2&lt;br&gt;&lt;br&gt;Used as 2 in NSLU 6-7 A2&lt;br&gt;&lt;br&gt;Used as 8 in NSLU 6-7 A1&lt;br&gt;&lt;br&gt;Used as 9 in NSLU 6-7 A2&lt;br&gt;&lt;br&gt;Used as 10 in NSLU 6-7 A2&lt;br&gt;&lt;br&gt;Used as 14 in NSLU 6-7 A2" />
         <value title="Unknown Value 20" nybble="20" comment="Used as 0 in NSLU 6-7 A1, NSLU 6-7 A2&lt;br&gt;&lt;br&gt;Used as 1 in NSLU 6-7 A2&lt;br&gt;&lt;br&gt;Used as 2 in NSLU 6-7 A2&lt;br&gt;&lt;br&gt;Used as 5 in NSLU 6-7 A2" />
